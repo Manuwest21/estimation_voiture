@@ -1,5 +1,5 @@
-Bien sûr, voici un exemple de README qui pourrait décrire votre projet de prédiction de prix de voitures :
-Projet de prédiction de prix de voitures
+
+Présentation du proojet de prédiction de prix de voitures
 
 Ce projet consiste à utiliser un algorithme de machine learning pour prédire le prix d'une voiture en fonction des caractéristqiues qui ont été observées, aprés analyse, comme les plus influencantes.
 Ceci à partir d'un jeu de données fourni.
