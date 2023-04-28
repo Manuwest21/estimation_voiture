@@ -54,7 +54,8 @@ course = df['course'].unique().tolist()
 
 
 
-st.title("Recherche de films et séries")
+st.markdown("<span style='color:green'>Rentrez les détails du véhicule</span>", unsafe_allow_html=True)
+
     
     # Propose de chercher un film ou une série
 # choix = st.radio("Rechercher un/e", options=["Estimation simple", "Estimation approfondie"])
