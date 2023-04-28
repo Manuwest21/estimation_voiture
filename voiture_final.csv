@@ -1,206 +1,206 @@
-,car_ID,etat_de_route,carburant,turbo,nombre_portes,type_vehicule,roues_motrices,emplacement_moteur,empattement,longueur_voiture,largeur_voiture,hauteur_voiture,poids_vehicule,type_moteur,nombre_cylindres,moteur_cc3,systeme_carburant,taux_alésage,course,taux_compression,chevaux,tour_moteur,consommation_ville,consommation_autoroute,prix,marque,modele
-0,1,3,gas,standard,2,decapotable,arriere,devant,2.25,4.29,1.63,1.24,1.27,double ACT,4,2130.0,injection multipoint multipoint port unique,3.47,2.68,9.0,111,5000,11.20069442857143,8.711651222222223,13495.0,alpha-romeo,giulia
-1,2,3,gas,standard,2,decapotable,arriere,devant,2.25,4.29,1.63,1.24,1.27,double ACT,4,2130.0,injection multipoint multipoint port unique,3.47,2.68,9.0,111,5000,11.20069442857143,8.711651222222223,16500.0,alpha-romeo,stelvio
-2,3,1,gas,standard,2,hayon,arriere,devant,2.4,4.35,1.66,1.33,1.41,soupapes en tête à manchon,6,2491.0,injection multipoint multipoint port unique,2.68,3.47,9.0,154,5000,12.379714894736843,9.046714730769231,16500.0,alpha-romeo,Quadrifoglio
-3,4,2,gas,standard,4,berline,avant,devant,2.53,4.49,1.68,1.38,1.17,ACT,4,1786.0,injection multipoint multipoint port unique,3.19,3.4,10.0,102,5500,9.800607625,7.840486100000001,13950.0,audi,100 ls
-4,5,2,gas,standard,4,berline,4motrice,devant,2.52,4.49,1.69,1.38,1.41,ACT,5,2229.0,injection multipoint multipoint port unique,3.19,3.4,8.0,115,5500,13.067476833333334,10.691571954545454,17450.0,audi,100ls
-5,6,2,gas,standard,2,berline,avant,devant,2.53,4.5,1.68,1.35,1.25,ACT,5,2229.0,injection multipoint multipoint port unique,3.19,3.4,8.5,110,5500,12.379714894736843,9.40858332,15250.0,audi,fox
-6,7,1,gas,standard,4,berline,avant,devant,2.69,4.89,1.81,1.41,1.42,ACT,5,2229.0,injection multipoint multipoint port unique,3.19,3.4,8.5,110,5500,12.379714894736843,9.40858332,17710.0,audi,100ls
-7,8,1,gas,standard,4,break,avant,devant,2.69,4.89,1.81,1.41,1.48,ACT,5,2229.0,injection multipoint multipoint port unique,3.19,3.4,8.5,110,5500,12.379714894736843,9.40858332,18920.0,audi,5000
-8,9,1,gas,turbo,4,berline,avant,devant,2.69,4.89,1.81,1.42,1.54,ACT,5,2147.0,injection multipoint multipoint port unique,3.13,3.4,8.3,140,5500,13.836151941176471,11.76072915,23875.0,audi,4000
-9,10,0,gas,turbo,2,hayon,4motrice,devant,2.53,4.53,1.72,1.32,1.53,ACT,5,2147.0,injection multipoint multipoint port unique,3.13,3.4,7.0,160,5500,14.7009114375,10.691571954545454,17859.167,audi,5000s (diesel)
-10,11,2,gas,standard,2,berline,arriere,devant,2.57,4.49,1.65,1.38,1.2,ACT,4,1770.0,injection multipoint multipoint port unique,3.5,2.8,8.8,101,5800,10.226721,8.110847689655172,16430.0,bmw,320i
-11,12,0,gas,standard,4,berline,arriere,devant,2.57,4.49,1.65,1.38,1.2,ACT,4,1770.0,injection multipoint multipoint port unique,3.5,2.8,8.8,101,5800,10.226721,8.110847689655172,16925.0,bmw,320i
-12,13,0,gas,standard,2,berline,arriere,devant,2.57,4.49,1.65,1.38,1.36,ACT,6,2687.0,injection multipoint multipoint port unique,3.31,3.19,9.0,121,4250,11.20069442857143,8.400520821428572,20970.0,bmw,x1
-13,14,0,gas,standard,4,berline,arriere,devant,2.57,4.49,1.65,1.38,1.38,ACT,6,2687.0,injection multipoint multipoint port unique,3.31,3.19,9.0,121,4250,11.20069442857143,8.400520821428572,21105.0,bmw,x3
-14,15,1,gas,standard,4,berline,arriere,devant,2.63,4.8,1.7,1.41,1.53,ACT,6,2687.0,injection multipoint multipoint port unique,3.31,3.19,9.0,121,4250,11.76072915,9.40858332,24565.0,bmw,z4
-15,16,0,gas,standard,4,berline,arriere,devant,2.63,4.8,1.7,1.41,1.62,ACT,6,3425.0,injection multipoint multipoint port unique,3.62,3.39,8.0,182,5400,14.7009114375,10.691571954545454,30760.0,bmw,x4
-16,17,0,gas,standard,2,berline,arriere,devant,2.63,4.92,1.72,1.36,1.69,ACT,6,3425.0,injection multipoint multipoint port unique,3.62,3.39,8.0,182,5400,14.7009114375,10.691571954545454,41315.0,bmw,x5
-17,18,0,gas,standard,4,berline,arriere,devant,2.79,5.0,1.8,1.43,1.75,ACT,6,3425.0,injection multipoint multipoint port unique,3.62,3.39,8.0,182,5400,15.680972200000001,11.76072915,36880.0,bmw,x3
-18,19,2,gas,standard,2,hayon,avant,devant,2.25,3.58,1.53,1.35,0.74,ligne des cylindres,3,1000.0,carburateur 2 corps,2.91,3.03,9.5,48,5100,5.004565595744681,4.438011,5151.0,chevrolet,impala
-19,20,1,gas,standard,2,hayon,avant,devant,2.4,3.96,1.62,1.32,0.94,ACT,4,1475.0,carburateur 2 corps,3.03,3.11,9.6,70,5400,6.189857447368421,5.470106581395349,6295.0,chevrolet,monte carlo
-20,21,0,gas,standard,4,berline,avant,devant,2.4,4.03,1.62,1.32,0.95,ACT,4,1475.0,carburateur 2 corps,3.03,3.11,9.6,70,5400,6.189857447368421,5.470106581395349,6575.0,chevrolet,vega 2300
-21,22,1,gas,standard,2,hayon,avant,devant,2.38,4.0,1.62,1.29,0.94,ACT,4,1475.0,carburateur 2 corps,2.97,3.23,9.41,68,5500,6.357150891891892,5.736941048780488,5572.0,dodge,rampage
-22,23,1,gas,standard,2,hayon,avant,devant,2.38,4.0,1.62,1.29,0.94,ACT,4,1475.0,carburateur 2 corps,2.97,3.23,9.4,68,5500,7.587567193548387,6.189857447368421,6377.0,dodge,challenger se
-23,24,1,gas,turbo,2,hayon,avant,devant,2.38,4.0,1.62,1.29,1.06,ACT,4,1606.0,injection multipoint multipoint port unique,3.03,3.39,7.6,102,5500,9.800607625,7.840486100000001,7957.0,dodge,d200
-24,25,1,gas,standard,4,hayon,avant,devant,2.38,4.0,1.62,1.29,0.98,ACT,4,1475.0,carburateur 2 corps,2.97,3.23,9.4,68,5500,7.587567193548387,6.189857447368421,6229.0,dodge,monaco (sw)
-25,26,1,gas,standard,4,berline,avant,devant,2.38,4.0,1.62,1.29,0.99,ACT,4,1475.0,carburateur 2 corps,2.97,3.23,9.4,68,5500,7.587567193548387,6.189857447368421,6692.0,dodge,colt hardtop
-26,27,1,gas,standard,4,berline,avant,devant,2.38,4.0,1.62,1.29,0.99,ACT,4,1475.0,carburateur 2 corps,2.97,3.23,9.4,68,5500,7.587567193548387,6.189857447368421,7609.0,dodge,colt (sw)
-27,28,1,gas,turbo,2,berline,avant,devant,2.38,4.0,1.62,1.29,1.1,ACT,4,1606.0,injection multipoint multipoint port unique,3.03,3.39,7.6,102,5500,9.800607625,7.840486100000001,8558.0,dodge,coronet custom
-28,29,-1,gas,standard,4,break,avant,devant,2.62,4.43,1.64,1.52,1.27,ACT,4,1999.0,carburateur 2 corps,3.34,3.46,8.5,88,5000,9.800607625,7.840486100000001,8921.0,dodge,dart custom
-29,30,3,gas,turbo,2,hayon,avant,devant,2.44,4.4,1.68,1.28,1.41,ACT,4,2556.0,injection carburant multipoint,3.6,3.9,7.0,145,5000,12.379714894736843,9.800607625,12964.0,dodge,coronet custom (sw)
-30,31,2,gas,standard,2,hayon,avant,devant,2.2,3.67,1.62,1.29,0.86,ACT,4,1508.0,carburateur 1 corps,2.91,3.41,9.6,58,4800,4.800297612244898,4.355825611111111,6479.0,honda,civic
-31,32,2,gas,standard,2,hayon,avant,devant,2.2,3.67,1.62,1.29,0.91,ACT,4,1508.0,carburateur 1 corps,2.91,3.41,9.2,76,6000,7.587567193548387,6.189857447368421,6855.0,honda,civic cvcc
-32,33,1,gas,standard,2,hayon,avant,devant,2.38,3.81,1.63,1.34,0.92,ACT,4,1295.0,carburateur 1 corps,2.91,3.07,10.1,60,5500,6.189857447368421,5.600347214285715,5399.0,honda,civic
-33,34,1,gas,standard,2,hayon,avant,devant,2.38,3.81,1.63,1.34,0.97,ACT,4,1508.0,carburateur 1 corps,2.91,3.41,9.2,76,6000,7.840486100000001,6.9180759705882355,6529.0,honda,accord cvcc
-34,35,1,gas,standard,2,hayon,avant,devant,2.38,3.81,1.63,1.34,0.98,ACT,4,1508.0,carburateur 1 corps,2.91,3.41,9.2,76,6000,7.840486100000001,6.9180759705882355,7129.0,honda,civic cvcc
-35,36,0,gas,standard,4,berline,avant,devant,2.45,4.15,1.63,1.38,1.0,ACT,4,1508.0,carburateur 1 corps,2.91,3.41,9.2,76,6000,7.840486100000001,6.9180759705882355,7295.0,honda,accord lx
-36,37,0,gas,standard,4,break,avant,devant,2.45,3.99,1.62,1.48,1.01,ACT,4,1508.0,carburateur 1 corps,2.92,3.41,9.2,76,6000,7.840486100000001,6.9180759705882355,7295.0,honda,civic 1500 gl
-37,38,0,gas,standard,2,hayon,avant,devant,2.45,4.25,1.66,1.35,1.12,ACT,4,1803.0,carburateur 1 corps,3.15,3.58,9.0,86,5800,8.711651222222223,7.127714636363637,7895.0,honda,accord
-38,39,0,gas,standard,2,hayon,avant,devant,2.45,4.25,1.66,1.35,1.14,ACT,4,1803.0,carburateur 1 corps,3.15,3.58,9.0,86,5800,8.711651222222223,7.127714636363637,9095.0,honda,civic 1300
-39,40,0,gas,standard,4,berline,avant,devant,2.45,4.46,1.66,1.37,1.15,ACT,4,1803.0,carburateur 1 corps,3.15,3.58,9.0,86,5800,8.711651222222223,7.127714636363637,8845.0,honda,prelude
-40,41,0,gas,standard,4,berline,avant,devant,2.45,4.46,1.59,1.37,1.19,ACT,4,1803.0,carburateur 1 corps,3.15,3.58,9.0,86,5800,8.711651222222223,7.127714636363637,10295.0,honda,accord
-41,42,0,gas,standard,4,berline,avant,devant,2.45,4.46,1.66,1.37,1.23,ACT,4,1803.0,injection multipoint multipoint port unique,3.15,3.58,9.0,101,5800,9.800607625,8.400520821428572,12945.0,honda,civic
-42,43,1,gas,standard,2,berline,avant,devant,2.45,4.3,1.68,1.3,1.15,ACT,4,1803.0,carburateur 2 corps,3.15,3.58,9.1,100,5500,9.40858332,7.587567193548387,10345.0,honda,civic (auto)
-43,44,0,gas,standard,4,berline,arriere,devant,2.4,4.34,1.57,1.36,1.17,ACT,4,1819.0,carburateur 2 corps,3.31,3.23,8.5,78,4800,9.800607625,8.110847689655172,6785.0,isuzu,MU-X
-44,45,1,gas,standard,2,berline,avant,devant,2.4,3.96,1.62,1.32,0.94,ACT,4,1475.0,carburateur 2 corps,3.03,3.11,9.6,70,5400,6.189857447368421,5.470106581395349,8916.5,isuzu,D-Max 
-45,46,0,gas,standard,4,berline,avant,devant,2.4,3.96,1.62,1.32,0.95,ACT,4,1475.0,carburateur 2 corps,3.03,3.11,9.6,70,5400,6.189857447368421,5.470106581395349,8916.5,isuzu,D-Max V-Cross
-46,47,2,gas,standard,2,hayon,arriere,devant,2.44,4.38,1.66,1.31,1.37,ACT,4,1950.0,injection monopoint,3.43,3.23,9.2,90,5000,9.800607625,8.110847689655172,11048.0,isuzu,D-Max 
-47,48,0,gas,standard,4,berline,arriere,devant,2.87,5.07,1.77,1.34,2.03,double ACT,6,4228.0,injection multipoint multipoint port unique,3.63,4.17,8.1,176,4750,15.680972200000001,12.379714894736843,32250.0,jaguar,xj
-48,49,0,gas,standard,4,berline,arriere,devant,2.87,5.07,1.77,1.34,2.03,double ACT,6,4228.0,injection multipoint multipoint port unique,3.63,4.17,8.1,176,4750,15.680972200000001,12.379714894736843,35550.0,jaguar,xf
-49,50,0,gas,standard,2,berline,arriere,devant,2.59,4.87,1.79,1.21,1.98,soupapes en tête à manchon,12,5342.0,injection multipoint multipoint port unique,3.54,2.76,11.5,262,5000,18.093429461538463,13.836151941176471,36000.0,jaguar,xk
-50,51,1,gas,standard,2,hayon,avant,devant,2.36,4.04,1.63,1.37,0.94,ACT,4,1491.0,carburateur 2 corps,3.03,3.15,9.0,68,5000,7.840486100000001,7.587567193548387,5195.0,mazda,rx3
-51,52,1,gas,standard,2,hayon,avant,devant,2.36,4.04,1.63,1.37,0.95,ACT,4,1491.0,carburateur 2 corps,3.03,3.15,9.0,68,5000,7.587567193548387,6.189857447368421,6095.0,mazda,glc deluxe
-52,53,1,gas,standard,2,hayon,avant,devant,2.36,4.04,1.63,1.37,0.95,ACT,4,1491.0,carburateur 2 corps,3.03,3.15,9.0,68,5000,7.587567193548387,6.189857447368421,6795.0,mazda,rx2 coupe
-53,54,1,gas,standard,4,berline,avant,devant,2.36,4.24,1.63,1.37,0.97,ACT,4,1491.0,carburateur 2 corps,3.03,3.15,9.0,68,5000,7.587567193548387,6.189857447368421,6695.0,mazda,rx-4
-54,55,1,gas,standard,4,berline,avant,devant,2.36,4.24,1.63,1.37,0.98,ACT,4,1491.0,carburateur 2 corps,3.08,3.15,9.0,68,5000,7.587567193548387,6.189857447368421,7395.0,mazda,glc deluxe
-55,56,3,gas,standard,2,hayon,arriere,devant,2.42,4.29,1.67,1.26,1.19,moteur rotatif,2,1147.0,carburateur 4 corps,3.33,3.255,9.4,101,6000,13.836151941176471,10.226721,10945.0,mazda,626
-56,57,3,gas,standard,2,hayon,arriere,devant,2.42,4.29,1.67,1.26,1.19,moteur rotatif,2,1147.0,carburateur 4 corps,3.33,3.255,9.4,101,6000,13.836151941176471,10.226721,11845.0,mazda,glc
-57,58,3,gas,standard,2,hayon,arriere,devant,2.42,4.29,1.67,1.26,1.19,moteur rotatif,2,1147.0,carburateur 4 corps,3.33,3.255,9.4,101,6000,13.836151941176471,10.226721,13645.0,mazda,rx-7 gs
-58,59,3,gas,standard,2,hayon,arriere,devant,2.42,4.29,1.67,1.26,1.25,moteur rotatif,2,1311.0,injection multipoint multipoint port unique,3.33,3.255,9.4,135,6000,14.7009114375,10.226721,15645.0,mazda,glc 4
-59,60,1,gas,standard,2,hayon,avant,devant,2.51,4.52,1.69,1.36,1.19,ACT,4,1999.0,carburateur 2 corps,3.39,3.39,8.6,84,4800,9.046714730769231,7.35045571875,8845.0,mazda,626
-60,61,0,gas,standard,4,berline,avant,devant,2.51,4.52,1.69,1.41,1.2,ACT,4,1999.0,carburateur 2 corps,3.39,3.39,8.6,84,4800,9.046714730769231,7.35045571875,8495.0,mazda,glc custom l
-61,62,1,gas,standard,2,hayon,avant,devant,2.51,4.52,1.69,1.36,1.19,ACT,4,1999.0,carburateur 2 corps,3.39,3.39,8.6,84,4800,9.046714730769231,7.35045571875,10595.0,mazda,glc custom
-62,63,0,gas,standard,4,berline,avant,devant,2.51,4.52,1.69,1.41,1.2,ACT,4,1999.0,carburateur 2 corps,3.39,3.39,8.6,84,4800,9.046714730769231,7.35045571875,10245.0,mazda,rx-4
-63,64,0,diesel,standard,4,berline,avant,devant,2.51,4.52,1.69,1.41,1.22,ACT,4,1999.0,injection indirecte,3.39,3.39,22.7,64,4650,6.533738416666667,5.600347214285715,10795.0,mazda,glc deluxe
-64,65,0,gas,standard,4,hayon,avant,devant,2.51,4.52,1.69,1.41,1.21,ACT,4,1999.0,carburateur 2 corps,3.39,3.39,8.6,84,4800,9.046714730769231,7.35045571875,11245.0,mazda,626
-65,66,0,gas,standard,4,berline,arriere,devant,2.66,4.45,1.68,1.38,1.34,ACT,4,2294.0,injection multipoint multipoint port unique,3.76,3.16,8.0,120,5000,12.379714894736843,8.711651222222223,18280.0,mazda,glc
-66,67,0,diesel,standard,4,berline,arriere,devant,2.66,4.45,1.68,1.38,1.35,ACT,4,2196.0,injection indirecte,3.43,3.64,22.0,72,4200,7.587567193548387,6.031143153846154,18344.0,mazda,rx-7 gs
-67,68,-1,diesel,turbo,4,berline,arriere,devant,2.79,4.85,1.79,1.44,1.76,ACT,5,2999.0,injection indirecte,3.58,3.64,21.5,123,4350,10.691571954545454,9.40858332,25552.0,buick,electra 225 custom
-68,69,-1,diesel,turbo,4,break,arriere,devant,2.79,4.85,1.79,1.49,1.88,ACT,5,2999.0,injection indirecte,3.58,3.64,21.5,123,4350,10.691571954545454,9.40858332,28248.0,buick,century luxus (sw)
-69,70,0,diesel,turbo,2,coupe,arriere,devant,2.71,4.76,1.79,1.39,1.75,ACT,5,2999.0,injection indirecte,3.58,3.64,21.5,123,4350,10.691571954545454,9.40858332,28176.0,buick,century
-70,71,-1,diesel,turbo,4,berline,arriere,devant,2.94,5.15,1.82,1.43,1.88,ACT,5,2999.0,injection indirecte,3.58,3.64,21.5,123,4350,10.691571954545454,9.40858332,31600.0,buick,skyhawk
-71,72,-1,gas,standard,4,berline,arriere,devant,2.94,5.15,1.82,1.44,1.87,soupapes en tête à manchon,8,3835.0,injection multipoint multipoint port unique,3.46,3.1,8.3,155,4750,14.7009114375,13.067476833333334,34184.0,buick,opel isuzu deluxe
-72,73,3,gas,standard,2,decapotable,arriere,devant,2.45,4.58,1.79,1.29,1.84,soupapes en tête à manchon,8,3835.0,injection multipoint multipoint port unique,3.46,3.1,8.3,155,4750,14.7009114375,13.067476833333334,35056.0,buick,skylark
-73,74,0,gas,standard,4,berline,arriere,devant,3.07,5.29,1.82,1.44,1.95,soupapes en tête à manchon,8,5047.0,injection multipoint multipoint port unique,3.8,3.35,8.0,184,4500,16.801041642857143,14.7009114375,40960.0,buick,century special
-74,75,1,gas,standard,2,coupe,arriere,devant,2.84,5.06,1.83,1.41,1.86,soupapes en tête à manchon,8,4982.0,injection multipoint multipoint port unique,3.8,3.35,8.0,184,4500,16.801041642857143,14.7009114375,45400.0,buick,regal sport coupe (turbo)
-75,76,1,gas,turbo,2,hayon,arriere,devant,2.61,4.53,1.73,1.39,1.46,ACT,4,2294.0,injection multipoint multipoint port unique,3.78,3.12,8.0,175,5000,12.379714894736843,9.800607625,16503.0,mercury,cougar
-76,77,2,gas,standard,2,hayon,avant,devant,2.38,4.0,1.64,1.29,0.96,ACT,4,1508.0,carburateur 2 corps,2.97,3.23,9.4,68,5500,6.357150891891892,5.736941048780488,5389.0,mitsubishi,mirage
-77,78,2,gas,standard,2,hayon,avant,devant,2.38,4.0,1.64,1.29,0.97,ACT,4,1508.0,carburateur 2 corps,2.97,3.23,9.4,68,5500,7.587567193548387,6.189857447368421,6189.0,mitsubishi,lancer
-78,79,2,gas,standard,2,hayon,avant,devant,2.38,4.0,1.64,1.29,1.0,ACT,4,1508.0,carburateur 2 corps,2.97,3.23,9.4,68,5500,7.587567193548387,6.189857447368421,6669.0,mitsubishi,outlander
-79,80,1,gas,turbo,2,hayon,avant,devant,2.36,4.0,1.62,1.29,1.07,ACT,4,1606.0,injection D monopoint,3.03,3.39,7.6,102,5500,9.800607625,7.840486100000001,7689.0,mitsubishi,g4
-80,81,3,gas,turbo,2,hayon,avant,devant,2.45,4.39,1.66,1.25,1.18,ACT,4,1803.0,injection D monopoint,3.17,3.46,7.5,116,5500,10.226721,7.840486100000001,9959.0,mitsubishi,mirage g4
-81,82,3,gas,standard,2,hayon,avant,devant,2.45,4.39,1.66,1.25,1.16,ACT,4,1999.0,carburateur 2 corps,3.35,3.46,8.5,88,5000,9.40858332,7.35045571875,8499.0,mitsubishi,g4
-82,83,3,gas,turbo,2,hayon,avant,devant,2.44,4.4,1.68,1.28,1.42,ACT,4,2556.0,injection D monopoint,3.58,3.86,7.0,145,5000,12.379714894736843,9.800607625,12629.0,mitsubishi,outlander
-83,84,3,gas,turbo,2,hayon,avant,devant,2.44,4.4,1.68,1.28,1.46,ACT,4,2556.0,injection D monopoint,3.59,3.86,7.0,145,5000,12.379714894736843,9.800607625,14869.0,mitsubishi,g4
-84,85,3,gas,turbo,2,hayon,avant,devant,2.44,4.4,1.68,1.28,1.46,ACT,4,2556.0,injection D monopoint,3.59,3.86,7.0,145,5000,12.379714894736843,9.800607625,14489.0,mitsubishi,mirage g4
-85,86,1,gas,standard,4,berline,avant,devant,2.45,4.38,1.66,1.31,1.18,ACT,4,1999.0,carburateur 2 corps,3.35,3.46,8.5,88,5000,9.40858332,7.35045571875,6989.0,mitsubishi,montero
-86,87,1,gas,standard,4,berline,avant,devant,2.45,4.38,1.66,1.31,1.2,ACT,4,1999.0,carburateur 2 corps,3.35,3.46,8.5,88,5000,9.40858332,7.35045571875,8189.0,mitsubishi,pajero
-87,88,1,gas,turbo,4,berline,avant,devant,2.45,4.38,1.66,1.31,1.2,ACT,4,1803.0,injection D monopoint,3.17,3.46,7.5,116,5500,10.226721,7.840486100000001,9279.0,mitsubishi,outlander
-88,89,-1,gas,standard,4,berline,avant,devant,2.45,4.38,1.66,1.31,1.2,ACT,4,1803.0,injection D monopoint,3.17,3.46,7.5,116,5500,10.226721,7.840486100000001,9279.0,mitsubishi,mirage g4
-89,90,1,gas,standard,2,berline,avant,devant,2.4,4.2,1.62,1.38,0.94,ACT,4,1590.0,carburateur 2 corps,3.15,3.29,9.4,69,5200,7.587567193548387,6.357150891891892,5499.0,nissan,versa
-90,91,1,diesel,standard,2,berline,avant,devant,2.4,4.2,1.62,1.38,1.01,ACT,4,1688.0,injection indirecte,2.99,3.47,21.9,55,4800,5.226990733333333,4.70429166,7099.0,nissan,gt-r
-91,92,1,gas,standard,2,berline,avant,devant,2.4,4.2,1.62,1.38,0.96,ACT,4,1590.0,carburateur 2 corps,3.15,3.29,9.4,69,5200,7.587567193548387,6.357150891891892,6649.0,nissan,rogue
-92,93,1,gas,standard,4,berline,avant,devant,2.4,4.2,1.62,1.38,0.97,ACT,4,1590.0,carburateur 2 corps,3.15,3.29,9.4,69,5200,7.587567193548387,6.357150891891892,6849.0,nissan,latio
-93,94,1,gas,standard,4,break,avant,devant,2.4,4.32,1.62,1.36,1.01,ACT,4,1590.0,carburateur 2 corps,3.15,3.29,9.4,69,5200,7.587567193548387,6.357150891891892,7349.0,nissan,titan
-94,95,1,gas,standard,2,berline,avant,devant,2.4,4.2,1.62,1.38,0.98,ACT,4,1590.0,carburateur 2 corps,3.15,3.29,9.4,69,5200,7.587567193548387,6.357150891891892,7299.0,nissan,leaf
-95,96,1,gas,standard,2,hayon,avant,devant,2.4,4.21,1.62,1.35,1.01,ACT,4,1590.0,carburateur 2 corps,3.15,3.29,9.4,69,5200,7.587567193548387,6.357150891891892,7799.0,nissan,juke
-96,97,1,gas,standard,4,berline,avant,devant,2.4,4.2,1.62,1.38,0.99,ACT,4,1590.0,carburateur 2 corps,3.15,3.29,9.4,69,5200,7.587567193548387,6.357150891891892,7499.0,nissan,latio
-97,98,1,gas,standard,4,break,avant,devant,2.4,4.32,1.62,1.36,1.02,ACT,4,1590.0,carburateur 2 corps,3.15,3.29,9.4,69,5200,7.587567193548387,6.357150891891892,7999.0,nissan,note
-98,99,2,gas,standard,2,coupe,avant,devant,2.42,4.12,1.62,1.35,1.0,ACT,4,1590.0,carburateur 2 corps,3.15,3.29,9.4,69,5200,7.587567193548387,6.357150891891892,8249.0,nissan,clipper
-99,100,0,gas,standard,4,hayon,avant,devant,2.47,4.4,1.66,1.39,1.16,ACT,4,1966.0,carburateur 2 corps,3.33,3.47,8.5,97,5200,8.711651222222223,6.9180759705882355,8949.0,nissan,rogue
-100,101,0,gas,standard,4,berline,avant,devant,2.47,4.4,1.66,1.39,1.15,ACT,4,1966.0,carburateur 2 corps,3.33,3.47,8.5,97,5200,8.711651222222223,6.9180759705882355,9549.0,nissan,nv200
-101,102,0,gas,standard,4,berline,avant,devant,2.55,4.62,1.69,1.4,1.55,soupapes en tête à manchon,6,2966.0,injection multipoint multipoint port unique,3.43,3.27,9.0,152,5200,13.836151941176471,10.691571954545454,13499.0,nissan,dayz
-102,103,0,gas,standard,4,break,avant,devant,2.55,4.69,1.69,1.42,1.65,soupapes en tête à manchon,6,2966.0,injection multipoint multipoint port unique,3.43,3.27,9.0,152,5200,13.836151941176471,10.691571954545454,14399.0,nissan,fuga
-103,104,0,gas,standard,4,berline,avant,devant,2.55,4.69,1.69,1.4,1.53,soupapes en tête à manchon,6,2966.0,injection multipoint multipoint port unique,3.43,3.27,9.0,152,5200,12.379714894736843,9.40858332,13499.0,nissan,otti
-104,105,3,gas,standard,2,hayon,arriere,devant,2.32,4.34,1.72,1.26,1.54,soupapes en tête à manchon,6,2966.0,injection multipoint multipoint port unique,3.43,3.27,9.0,160,5200,12.379714894736843,9.40858332,17199.0,nissan,teana
-105,106,3,gas,turbo,2,hayon,arriere,devant,2.32,4.34,1.72,1.26,1.57,soupapes en tête à manchon,6,2966.0,injection multipoint multipoint port unique,3.43,3.27,7.8,200,5200,13.836151941176471,10.226721,19699.0,nissan,kicks
-106,107,1,gas,standard,2,hayon,arriere,devant,2.52,4.53,1.72,1.26,1.57,soupapes en tête à manchon,6,2966.0,injection multipoint multipoint port unique,3.43,3.27,9.0,160,5200,12.379714894736843,9.40858332,18399.0,nissan,clipper
-107,108,0,gas,standard,4,berline,arriere,devant,2.74,4.74,1.74,1.44,1.51,ligne des cylindres,4,1966.0,injection multipoint multipoint port unique,3.46,3.19,8.4,97,5000,12.379714894736843,9.800607625,11900.0,peugeot,504
-108,109,0,diesel,turbo,4,berline,arriere,devant,2.74,4.74,1.74,1.44,1.6,ligne des cylindres,4,2491.0,injection indirecte,3.7,3.52,21.0,95,4150,8.400520821428572,7.127714636363637,13200.0,peugeot,304
-109,110,0,gas,standard,4,break,arriere,devant,2.9,5.05,1.74,1.49,1.62,ligne des cylindres,4,1966.0,injection multipoint multipoint port unique,3.46,3.19,8.4,97,5000,12.379714894736843,9.800607625,12440.0,peugeot,504 (sw)
-110,111,0,diesel,turbo,4,break,arriere,devant,2.9,5.05,1.74,1.49,1.72,ligne des cylindres,4,2491.0,injection indirecte,3.7,3.52,21.0,95,4150,9.40858332,9.40858332,13860.0,peugeot,504 turbo break
-111,112,0,gas,standard,4,berline,arriere,devant,2.74,4.74,1.74,1.44,1.54,ligne des cylindres,4,1966.0,injection multipoint multipoint port unique,3.46,2.19,8.4,95,5000,12.379714894736843,9.800607625,15580.0,peugeot,504 gas 95ch
-112,113,0,diesel,turbo,4,berline,arriere,devant,2.74,4.74,1.74,1.44,1.63,ligne des cylindres,4,2491.0,injection indirecte,3.7,3.52,21.0,95,4150,8.400520821428572,7.127714636363637,16900.0,peugeot,604sl
-113,114,0,gas,standard,4,break,arriere,devant,2.9,5.05,1.74,1.44,1.64,ligne des cylindres,4,1966.0,injection multipoint multipoint port unique,3.46,2.19,8.4,95,5000,12.379714894736843,9.800607625,16695.0,peugeot,504 essence break
-114,115,0,diesel,turbo,4,break,arriere,devant,2.9,5.05,1.74,1.49,1.74,ligne des cylindres,4,2491.0,injection indirecte,3.7,3.52,21.0,95,4150,9.40858332,9.40858332,17075.0,peugeot,505s turbo diesel
-115,116,0,gas,standard,4,berline,arriere,devant,2.74,4.74,1.74,1.44,1.54,ligne des cylindres,4,1966.0,injection multipoint multipoint port unique,3.46,3.19,8.4,97,5000,12.379714894736843,9.800607625,16630.0,peugeot,504 gas 97ch
-116,117,0,diesel,turbo,4,berline,arriere,devant,2.74,4.74,1.74,1.44,1.63,ligne des cylindres,4,2491.0,injection indirecte,3.7,3.52,21.0,95,4150,8.400520821428572,7.127714636363637,17950.0,peugeot,504 turbo
-117,118,0,gas,turbo,4,berline,arriere,devant,2.74,4.74,1.73,1.42,1.56,ligne des cylindres,4,2196.0,injection multipoint multipoint port unique,3.61,3.21,7.0,142,5600,13.067476833333334,9.800607625,18150.0,peugeot,604sl
-118,119,1,gas,standard,2,hayon,avant,devant,2.38,4.0,1.62,1.29,0.96,ACT,4,1475.0,carburateur 2 corps,2.97,3.23,9.4,68,5500,6.357150891891892,5.736941048780488,5572.0,plymouth,fury iii
-119,120,1,gas,turbo,2,hayon,avant,devant,2.38,4.0,1.62,1.29,1.06,ACT,4,1606.0,injection D monopoint,3.03,3.39,7.6,102,5500,9.800607625,7.840486100000001,7957.0,plymouth,cricket
-120,121,1,gas,standard,4,hayon,avant,devant,2.38,4.0,1.62,1.29,0.98,ACT,4,1475.0,carburateur 2 corps,2.97,3.23,9.4,68,5500,7.587567193548387,6.189857447368421,6229.0,plymouth,fury iii
-121,122,1,gas,standard,4,berline,avant,devant,2.38,4.25,1.62,1.29,0.99,ACT,4,1475.0,carburateur 2 corps,2.97,3.23,9.4,68,5500,7.587567193548387,6.189857447368421,6692.0,plymouth,satellite custom (sw)
-122,123,1,gas,standard,4,berline,avant,devant,2.38,4.25,1.62,1.29,1.1,ACT,4,1606.0,carburateur 2 corps,2.97,3.23,9.4,68,5500,7.587567193548387,6.189857447368421,7609.0,plymouth,fury gran sedan
-123,124,-1,gas,standard,4,break,avant,devant,2.62,4.43,1.64,1.52,1.27,ACT,4,1999.0,carburateur 2 corps,3.35,3.46,8.5,88,5000,9.800607625,7.840486100000001,8921.0,plymouth,valiant
-124,125,3,gas,turbo,2,hayon,arriere,devant,2.44,4.4,1.68,1.28,1.41,ACT,4,2556.0,injection D monopoint,3.59,3.86,7.0,145,5000,12.379714894736843,9.800607625,12764.0,plymouth,duster
-125,126,3,gas,standard,2,hayon,arriere,devant,2.4,4.29,1.73,1.28,1.39,ACT,4,2474.0,injection multipoint multipoint port unique,3.94,3.11,9.5,143,5500,12.379714894736843,8.711651222222223,22018.0,porsche,macan
-126,127,3,gas,standard,2,coupe,arriere,derrier,2.27,4.29,1.65,1.31,1.38,soupapes en tête à flux croisés,6,3179.0,injection multipoint multipoint port unique,3.74,2.9,9.5,207,5900,13.836151941176471,9.40858332,32528.0,porsche,panamera
-127,128,3,gas,standard,2,coupe,arriere,derrier,2.27,4.29,1.65,1.31,1.38,soupapes en tête à flux croisés,6,3179.0,injection multipoint multipoint port unique,3.74,2.9,9.5,207,5900,13.836151941176471,9.40858332,34028.0,porsche,cayenne
-128,129,3,gas,standard,2,decapotable,arriere,derrier,2.27,4.29,1.65,1.31,1.4,soupapes en tête à flux croisés,6,3179.0,injection multipoint multipoint port unique,3.74,2.9,9.5,207,5900,13.836151941176471,9.40858332,37028.0,porsche,boxter
-129,130,1,gas,standard,2,hayon,arriere,devant,2.5,4.46,1.84,1.28,1.68,double ACT à soupapes en V,8,3327.0,injection multipoint multipoint port unique,3.94,3.11,10.0,288,5750,13.836151941176471,8.400520821428572,31400.5,porsche,cayenne
-130,131,0,gas,standard,4,break,avant,devant,2.44,4.61,1.69,1.4,1.29,ACT,4,2163.0,injection multipoint multipoint port unique,3.46,3.9,8.7,90,5100,10.226721,7.587567193548387,9295.0,renault,12tl
-131,132,2,gas,standard,2,hayon,avant,devant,2.44,4.49,1.69,1.28,1.23,ACT,4,2163.0,injection multipoint multipoint port unique,3.46,3.9,8.7,90,5100,10.226721,7.587567193548387,9895.0,renault,5 gtl
-132,133,3,gas,standard,2,hayon,avant,devant,2.52,4.74,1.69,1.42,1.33,ACT,4,1983.0,injection multipoint multipoint port unique,3.54,3.07,9.31,110,5250,11.20069442857143,8.400520821428572,11850.0,saab,99e
-133,134,2,gas,standard,4,berline,avant,devant,2.52,4.74,1.69,1.42,1.35,ACT,4,1983.0,injection multipoint multipoint port unique,3.54,3.07,9.3,110,5250,11.20069442857143,8.400520821428572,12170.0,saab,99le
-134,135,3,gas,standard,2,hayon,avant,devant,2.52,4.74,1.69,1.42,1.35,ACT,4,1983.0,injection multipoint multipoint port unique,2.54,2.07,9.3,110,5250,11.20069442857143,8.400520821428572,15040.0,saab,99le
-135,136,2,gas,standard,4,berline,avant,devant,2.52,4.74,1.69,1.42,1.38,ACT,4,1983.0,injection multipoint multipoint port unique,3.54,3.07,9.3,110,5250,11.20069442857143,8.400520821428572,15510.0,saab,99gle
-136,137,3,gas,turbo,2,hayon,avant,devant,2.52,4.74,1.69,1.42,1.4,double ACT,4,1983.0,injection multipoint multipoint port unique,3.54,3.07,9.0,160,5500,12.379714894736843,9.046714730769231,18150.0,saab,99gle
-137,138,2,gas,turbo,4,berline,avant,devant,2.52,4.74,1.69,1.42,1.42,double ACT,4,1983.0,injection multipoint multipoint port unique,3.54,3.07,9.0,160,5500,12.379714894736843,9.046714730769231,18620.0,saab,99e
-138,139,2,gas,standard,2,hayon,avant,devant,2.38,3.99,1.61,1.36,1.02,soupapes en tête à flux croisés,4,1590.0,carburateur 2 corps,3.62,2.36,9.0,69,4900,7.587567193548387,6.533738416666667,5118.0,subaru,
-139,140,2,gas,standard,2,hayon,avant,devant,2.38,4.01,1.62,1.36,1.06,soupapes en tête à flux croisés,4,1770.0,carburateur 2 corps,3.62,2.64,8.7,73,4400,9.046714730769231,7.587567193548387,7053.0,subaru,dl
-140,141,2,gas,standard,2,hayon,4motrice,devant,2.37,4.0,1.62,1.41,1.12,soupapes en tête à flux croisés,4,1770.0,carburateur 2 corps,3.62,2.64,8.7,73,4400,9.046714730769231,7.587567193548387,7603.0,subaru,dl
-141,142,0,gas,standard,4,berline,avant,devant,2.47,4.37,1.66,1.33,1.07,soupapes en tête à flux croisés,4,1770.0,carburateur 2 corps,3.62,2.64,9.5,82,4800,7.35045571875,6.357150891891892,7126.0,subaru,
-142,143,0,gas,standard,4,berline,avant,devant,2.47,4.37,1.66,1.33,1.1,soupapes en tête à flux croisés,4,1770.0,carburateur 2 corps,3.62,2.64,9.5,82,4400,8.400520821428572,7.127714636363637,7775.0,subaru,brz
-143,144,0,gas,standard,4,berline,avant,devant,2.47,4.37,1.66,1.33,1.17,soupapes en tête à flux croisés,4,1770.0,injection multipoint multipoint port unique,3.62,2.64,9.0,94,5200,9.046714730769231,7.35045571875,9960.0,subaru,baja
-144,145,0,gas,standard,4,berline,4motrice,devant,2.46,4.37,1.66,1.38,1.19,soupapes en tête à flux croisés,4,1770.0,carburateur 2 corps,3.62,2.64,9.0,82,4800,9.800607625,9.40858332,9233.0,subaru,r1
-145,146,0,gas,turbo,4,berline,4motrice,devant,2.46,4.37,1.66,1.38,1.25,soupapes en tête à flux croisés,4,1770.0,injection multipoint multipoint port unique,3.62,2.64,7.7,111,4800,9.800607625,8.110847689655172,11259.0,subaru,r2
-146,147,0,gas,standard,4,break,avant,devant,2.46,4.41,1.66,1.35,1.14,soupapes en tête à flux croisés,4,1770.0,carburateur 2 corps,3.62,2.64,9.0,82,4800,8.400520821428572,7.35045571875,7463.0,subaru,trezia
-147,148,0,gas,standard,4,break,avant,devant,2.46,4.41,1.66,1.35,1.23,soupapes en tête à flux croisés,4,1770.0,injection multipoint multipoint port unique,3.62,2.64,9.0,94,5200,9.40858332,7.587567193548387,10198.0,subaru,tribeca
-148,149,0,gas,standard,4,break,4motrice,devant,2.46,4.41,1.66,1.39,1.21,soupapes en tête à flux croisés,4,1770.0,carburateur 2 corps,3.62,2.64,9.0,82,4800,10.226721,8.110847689655172,8013.0,subaru,dl
-149,150,0,gas,turbo,4,break,4motrice,devant,2.46,4.41,1.66,1.39,1.32,soupapes en tête à flux croisés,4,1770.0,injection multipoint multipoint port unique,3.62,2.64,7.7,111,4800,10.226721,10.226721,11694.0,subaru,dl
-150,151,1,gas,standard,2,hayon,avant,devant,2.43,4.03,1.62,1.38,0.99,ACT,4,1508.0,carburateur 2 corps,3.05,3.03,9.0,62,4800,6.720416657142858,6.031143153846154,5348.0,toyota,corona mark ii
-151,152,1,gas,standard,2,hayon,avant,devant,2.43,4.03,1.62,1.38,1.02,ACT,4,1508.0,carburateur 2 corps,3.05,3.03,9.0,62,4800,7.587567193548387,6.189857447368421,6338.0,toyota,corona
-152,153,1,gas,standard,4,hayon,avant,devant,2.43,4.03,1.62,1.38,1.01,ACT,4,1508.0,carburateur 2 corps,3.05,3.03,9.0,62,4800,7.587567193548387,6.189857447368421,6488.0,toyota,corolla 1200
-153,154,0,gas,standard,4,break,avant,devant,2.43,4.31,1.62,1.5,1.14,ACT,4,1508.0,carburateur 2 corps,3.05,3.03,9.0,62,4800,7.587567193548387,6.357150891891892,6918.0,toyota,corona hardtop
-154,155,0,gas,standard,4,break,4motrice,devant,2.43,4.31,1.62,1.5,1.14,ACT,4,1508.0,carburateur 2 corps,3.05,3.03,9.0,62,4800,8.711651222222223,7.35045571875,7898.0,toyota,corolla 1600 (sw)
-155,156,0,gas,standard,4,break,4motrice,devant,2.43,4.31,1.62,1.5,1.56,ACT,4,1508.0,carburateur 2 corps,3.05,3.03,9.0,62,4800,8.711651222222223,7.35045571875,8778.0,toyota,carina
-156,157,0,gas,standard,4,berline,avant,devant,2.43,4.22,1.64,1.35,1.04,ACT,4,1606.0,carburateur 2 corps,3.19,3.03,9.0,70,4800,7.840486100000001,6.357150891891892,6938.0,toyota,mark ii
-157,158,0,gas,standard,4,hayon,avant,devant,2.43,4.22,1.64,1.34,1.05,ACT,4,1606.0,carburateur 2 corps,3.19,3.03,9.0,70,4800,7.840486100000001,6.357150891891892,7198.0,toyota,corolla 1200
-158,159,0,diesel,standard,4,berline,avant,devant,2.43,4.22,1.64,1.35,1.14,ACT,4,1803.0,injection indirecte,3.27,3.35,22.5,56,4500,6.9180759705882355,6.533738416666667,7898.0,toyota,corona
-159,160,0,diesel,standard,4,hayon,avant,devant,2.43,4.22,1.64,1.34,1.14,ACT,4,1803.0,injection indirecte,3.27,3.35,22.5,56,4500,6.189857447368421,5.004565595744681,7788.0,toyota,corolla
-160,161,0,gas,standard,4,berline,avant,devant,2.43,4.22,1.64,1.35,1.05,ACT,4,1606.0,carburateur 2 corps,3.19,3.03,9.0,70,4800,6.189857447368421,5.004565595744681,7738.0,toyota,corona
-161,162,0,gas,standard,4,hayon,avant,devant,2.43,4.22,1.64,1.34,1.06,ACT,4,1606.0,carburateur 2 corps,3.19,3.03,9.0,70,4800,8.400520821428572,6.9180759705882355,8358.0,toyota,corolla
-162,163,0,gas,standard,4,berline,avant,devant,2.43,4.22,1.64,1.34,1.07,ACT,4,1606.0,carburateur 2 corps,3.19,3.03,9.0,70,4800,8.400520821428572,6.9180759705882355,9258.0,toyota,mark ii
-163,164,1,gas,standard,2,berline,arriere,devant,2.4,4.28,1.63,1.34,1.08,ACT,4,1606.0,carburateur 2 corps,3.19,3.03,9.0,70,4800,8.110847689655172,6.9180759705882355,8058.0,toyota,corolla liftback
-164,165,1,gas,standard,2,hayon,arriere,devant,2.4,4.28,1.63,1.34,1.1,ACT,4,1606.0,carburateur 2 corps,3.19,3.03,9.0,70,4800,8.110847689655172,6.9180759705882355,8238.0,toyota,corona
-165,166,1,gas,standard,2,berline,arriere,devant,2.4,4.28,1.63,1.34,1.13,double ACT,4,1606.0,injection multipoint multipoint port unique,3.24,3.08,9.4,112,6600,9.046714730769231,8.110847689655172,9298.0,toyota,celica gt liftback
-166,167,1,gas,standard,2,hayon,arriere,devant,2.4,4.28,1.63,1.34,1.15,double ACT,4,1606.0,injection multipoint multipoint port unique,3.24,3.08,9.4,112,6600,9.046714730769231,8.110847689655172,9538.0,toyota,corolla tercel
-167,168,2,gas,standard,2,coupe,arriere,devant,2.5,4.48,1.67,1.32,1.27,ACT,4,2393.0,injection multipoint multipoint port unique,3.62,3.5,9.3,116,4800,9.800607625,7.840486100000001,8449.0,toyota,corona liftback
-168,169,2,gas,standard,2,coupe,arriere,devant,2.5,4.48,1.67,1.32,1.27,ACT,4,2393.0,injection multipoint multipoint port unique,3.62,3.5,9.3,116,4800,9.800607625,7.840486100000001,9639.0,toyota,corolla
-169,170,2,gas,standard,2,hayon,arriere,devant,2.5,4.48,1.67,1.32,1.28,ACT,4,2393.0,injection multipoint multipoint port unique,3.62,3.5,9.3,116,4800,9.800607625,7.840486100000001,9989.0,toyota,starlet
-170,171,2,gas,standard,2,coupe,arriere,devant,2.5,4.48,1.67,1.32,1.34,ACT,4,2393.0,injection multipoint multipoint port unique,3.62,3.5,9.3,116,4800,9.800607625,7.840486100000001,11199.0,toyota,tercel
-171,172,2,gas,standard,2,hayon,arriere,devant,2.5,4.48,1.67,1.32,1.36,ACT,4,2393.0,injection multipoint multipoint port unique,3.62,3.5,9.3,116,4800,9.800607625,7.840486100000001,11549.0,toyota,corolla
-172,173,2,gas,standard,2,decapotable,arriere,devant,2.5,4.48,1.67,1.35,1.49,ACT,4,2393.0,injection multipoint multipoint port unique,3.62,3.5,9.3,116,4800,9.800607625,7.840486100000001,17669.0,toyota,cressida
-173,174,-1,gas,standard,4,berline,avant,devant,2.6,4.46,1.69,1.39,1.16,ACT,4,1999.0,injection multipoint multipoint port unique,3.31,3.54,8.7,92,4200,8.110847689655172,6.9180759705882355,8948.0,toyota,corolla
-174,175,-1,diesel,turbo,4,berline,avant,devant,2.6,4.46,1.69,1.39,1.24,ACT,4,1803.0,injection indirecte,3.27,3.35,22.5,73,4500,7.840486100000001,7.127714636363637,10698.0,toyota,celica gt
-175,176,-1,gas,standard,4,hayon,avant,devant,2.6,4.46,1.69,1.37,1.21,ACT,4,1999.0,injection multipoint multipoint port unique,3.31,3.54,8.7,92,4200,8.711651222222223,7.35045571875,9988.0,toyota,corona
-176,177,-1,gas,standard,4,berline,avant,devant,2.6,4.46,1.69,1.39,1.21,ACT,4,1999.0,injection multipoint multipoint port unique,3.31,3.54,8.7,92,4200,8.711651222222223,7.35045571875,10898.0,toyota,corolla
-177,178,-1,gas,standard,4,hayon,avant,devant,2.6,4.46,1.69,1.37,1.23,ACT,4,1999.0,injection multipoint multipoint port unique,3.31,3.54,8.7,92,4200,8.711651222222223,7.35045571875,11248.0,toyota,mark ii
-178,179,3,gas,standard,2,hayon,arriere,devant,2.61,4.66,1.72,1.32,1.49,double ACT,6,2802.0,injection multipoint multipoint port unique,3.27,3.35,9.3,161,5200,11.76072915,9.800607625,16558.0,toyota,corolla liftback
-179,180,3,gas,standard,2,hayon,arriere,devant,2.61,4.66,1.72,1.32,1.51,double ACT,6,2802.0,injection multipoint multipoint port unique,3.27,3.35,9.3,161,5200,12.379714894736843,9.800607625,15998.0,toyota,corona
-180,181,-1,gas,standard,4,berline,arriere,devant,2.65,4.77,1.69,1.37,1.57,double ACT,6,2802.0,injection multipoint multipoint port unique,3.27,3.35,9.2,156,5200,11.76072915,9.800607625,15690.0,toyota,starlet
-181,182,-1,gas,standard,4,break,arriere,devant,2.65,4.77,1.69,1.37,1.58,double ACT,6,2638.0,injection multipoint multipoint port unique,3.27,3.35,9.2,156,5200,12.379714894736843,9.800607625,15750.0,toyota,tercel
-182,183,2,diesel,standard,2,berline,avant,devant,2.47,4.36,1.66,1.41,1.13,ACT,4,1590.0,injection indirecte,3.01,3.4,23.0,52,4800,6.357150891891892,5.1133605,7775.0,volkswagen,rabbit
-183,184,2,gas,standard,2,berline,avant,devant,2.47,4.36,1.66,1.41,1.1,ACT,4,1786.0,injection multipoint multipoint port unique,3.19,3.4,9.0,85,5250,8.711651222222223,6.9180759705882355,7975.0,volkswagen,1131 deluxe sedan
-184,185,2,diesel,standard,4,berline,avant,devant,2.47,4.36,1.66,1.41,1.13,ACT,4,1590.0,injection indirecte,3.01,3.4,23.0,52,4800,6.357150891891892,5.1133605,7995.0,volkswagen,model 111
-185,186,2,gas,standard,4,berline,avant,devant,2.47,4.36,1.66,1.41,1.11,ACT,4,1786.0,injection multipoint multipoint port unique,3.19,3.4,9.0,85,5250,8.711651222222223,6.9180759705882355,8195.0,volkswagen,type 3
-186,187,2,gas,standard,4,berline,avant,devant,2.47,4.36,1.66,1.41,1.14,ACT,4,1786.0,injection multipoint multipoint port unique,3.19,3.4,9.0,85,5250,8.711651222222223,6.9180759705882355,8495.0,volkswagen,411 (sw)
-187,188,2,diesel,turbo,4,berline,avant,devant,2.47,4.36,1.66,1.41,1.16,ACT,4,1590.0,injection indirecte,3.01,3.4,23.0,68,4500,6.357150891891892,5.600347214285715,9495.0,volkswagen,super beetle
-188,189,2,gas,standard,4,berline,avant,devant,2.47,4.36,1.66,1.41,1.15,ACT,4,1786.0,injection multipoint multipoint port unique,3.19,3.4,10.0,100,5500,9.046714730769231,7.35045571875,9995.0,volkswagen,dasher
-189,190,3,gas,standard,2,decapotable,avant,devant,2.4,4.05,1.63,1.41,1.13,ACT,4,1786.0,injection multipoint multipoint port unique,3.19,3.4,8.5,90,5500,9.800607625,8.110847689655172,11595.0,volkswagen,dasher
-190,191,3,gas,standard,2,hayon,avant,devant,2.4,4.21,1.63,1.31,1.11,ACT,4,1786.0,injection multipoint multipoint port unique,3.19,3.4,8.5,90,5500,9.800607625,8.110847689655172,9980.0,volkswagen,rabbit
-191,192,0,gas,standard,4,berline,avant,devant,2.55,4.58,1.7,1.4,1.33,ACT,5,2229.0,injection multipoint multipoint port unique,3.19,3.4,8.5,110,5500,12.379714894736843,9.800607625,13295.0,volkswagen,rabbit
-192,193,0,diesel,turbo,4,berline,avant,devant,2.55,4.58,1.7,1.4,1.29,ACT,4,1590.0,injection indirecte,3.01,3.4,23.0,68,4500,7.127714636363637,6.189857447368421,13845.0,volkswagen,rabbit custom
-193,194,0,gas,standard,4,break,avant,devant,2.55,4.65,1.7,1.4,1.28,ACT,4,1786.0,injection multipoint multipoint port unique,3.19,3.4,9.0,88,5500,9.40858332,7.587567193548387,12290.0,volkswagen,dasher
-194,195,-2,gas,standard,4,berline,arriere,devant,2.65,4.8,1.71,1.43,1.46,ACT,4,2311.0,injection multipoint multipoint port unique,3.78,3.15,9.5,114,5400,10.226721,8.400520821428572,12940.0,volvo,145e (sw)
-195,196,-1,gas,standard,4,break,arriere,devant,2.65,4.8,1.71,1.46,1.52,ACT,4,2311.0,injection multipoint multipoint port unique,3.78,3.15,9.5,114,5400,10.226721,8.400520821428572,13415.0,volvo,144ea
-196,197,-2,gas,standard,4,berline,arriere,devant,2.65,4.8,1.71,1.43,1.47,ACT,4,2311.0,injection multipoint multipoint port unique,3.78,3.15,9.5,114,5400,9.800607625,8.400520821428572,15985.0,volvo,244dl
-197,198,-1,gas,standard,4,break,arriere,devant,2.65,4.8,1.71,1.46,1.52,ACT,4,2311.0,injection multipoint multipoint port unique,3.78,3.15,9.5,114,5400,9.800607625,8.400520821428572,16515.0,volvo,245
-198,199,-2,gas,turbo,4,berline,arriere,devant,2.65,4.8,1.71,1.43,1.52,ACT,4,2130.0,injection multipoint multipoint port unique,3.62,3.15,7.5,162,5100,13.836151941176471,10.691571954545454,18420.0,volvo,264gl
-199,200,-1,gas,turbo,4,break,arriere,devant,2.65,4.8,1.71,1.46,1.58,ACT,4,2130.0,injection multipoint multipoint port unique,3.62,3.15,7.5,162,5100,13.836151941176471,10.691571954545454,18950.0,volvo,diesel
-200,201,-1,gas,standard,4,berline,arriere,devant,2.77,4.8,1.75,1.41,1.48,ACT,4,2311.0,injection multipoint multipoint port unique,3.78,3.15,9.5,114,5400,10.226721,8.400520821428572,16845.0,volvo,145e (sw)
-201,202,-1,gas,turbo,4,berline,arriere,devant,2.77,4.8,1.75,1.41,1.52,ACT,4,2311.0,injection multipoint multipoint port unique,3.78,3.15,8.7,160,5300,12.379714894736843,9.40858332,19045.0,volvo,144ea
-202,203,-1,gas,standard,4,berline,arriere,devant,2.77,4.8,1.75,1.41,1.51,soupapes en tête à manchon,6,2835.0,injection multipoint multipoint port unique,3.58,2.87,8.8,134,5500,13.067476833333334,10.226721,21485.0,volvo,244dl
-203,204,-1,diesel,turbo,4,berline,arriere,devant,2.77,4.8,1.75,1.41,1.61,ACT,6,2376.0,injection indirecte,3.01,3.4,23.0,106,4800,9.046714730769231,8.711651222222223,22470.0,volvo,246
-204,205,-1,gas,turbo,4,berline,arriere,devant,2.77,4.8,1.75,1.41,1.53,ACT,4,2311.0,injection multipoint multipoint port unique,3.78,3.15,9.5,114,5400,12.379714894736843,9.40858332,22625.0,volvo,264gl
+,car_ID,etat_de_route,carburant,turbo,nombre_portes,type_vehicule,roues_motrices,emplacement_moteur,empattement,longueur_voiture,largeur_voiture,hauteur_voiture,poids_vehicule,type_moteur,nombre_cylindres,moteur_cc3,systeme_carburant,taux_alésage,course,taux_compression,chevaux,tour_moteur,consommation_ville,consommation_autoroute,prix,modele,marque
+0,1,3,gas,standard,2,decapotable,arriere,devant,2.25,4.29,1.63,1.24,1.27,double ACT,4,2130.0,injection multipoint multipoint port unique,3.47,2.68,9.0,111,5000,11.20069442857143,8.711651222222223,13495.0,giulia,alpha-romeo
+1,2,3,gas,standard,2,decapotable,arriere,devant,2.25,4.29,1.63,1.24,1.27,double ACT,4,2130.0,injection multipoint multipoint port unique,3.47,2.68,9.0,111,5000,11.20069442857143,8.711651222222223,16500.0,stelvio,alpha-romeo
+2,3,1,gas,standard,2,hayon,arriere,devant,2.4,4.35,1.66,1.33,1.41,soupapes en tête à manchon,6,2491.0,injection multipoint multipoint port unique,2.68,3.47,9.0,154,5000,12.379714894736843,9.046714730769231,16500.0,Quadrifoglio,alpha-romeo
+3,4,2,gas,standard,4,berline,avant,devant,2.53,4.49,1.68,1.38,1.17,ACT,4,1786.0,injection multipoint multipoint port unique,3.19,3.4,10.0,102,5500,9.800607625,7.840486100000001,13950.0,100 ls,audi
+4,5,2,gas,standard,4,berline,4motrice,devant,2.52,4.49,1.69,1.38,1.41,ACT,5,2229.0,injection multipoint multipoint port unique,3.19,3.4,8.0,115,5500,13.067476833333334,10.691571954545454,17450.0,100ls,audi
+5,6,2,gas,standard,2,berline,avant,devant,2.53,4.5,1.68,1.35,1.25,ACT,5,2229.0,injection multipoint multipoint port unique,3.19,3.4,8.5,110,5500,12.379714894736843,9.40858332,15250.0,fox,audi
+6,7,1,gas,standard,4,berline,avant,devant,2.69,4.89,1.81,1.41,1.42,ACT,5,2229.0,injection multipoint multipoint port unique,3.19,3.4,8.5,110,5500,12.379714894736843,9.40858332,17710.0,100ls,audi
+7,8,1,gas,standard,4,break,avant,devant,2.69,4.89,1.81,1.41,1.48,ACT,5,2229.0,injection multipoint multipoint port unique,3.19,3.4,8.5,110,5500,12.379714894736843,9.40858332,18920.0,5000,audi
+8,9,1,gas,turbo,4,berline,avant,devant,2.69,4.89,1.81,1.42,1.54,ACT,5,2147.0,injection multipoint multipoint port unique,3.13,3.4,8.3,140,5500,13.836151941176471,11.76072915,23875.0,4000,audi
+9,10,0,gas,turbo,2,hayon,4motrice,devant,2.53,4.53,1.72,1.32,1.53,ACT,5,2147.0,injection multipoint multipoint port unique,3.13,3.4,7.0,160,5500,14.7009114375,10.691571954545454,17859.167,5000s (diesel),audi
+10,11,2,gas,standard,2,berline,arriere,devant,2.57,4.49,1.65,1.38,1.2,ACT,4,1770.0,injection multipoint multipoint port unique,3.5,2.8,8.8,101,5800,10.226721,8.110847689655172,16430.0,320i,bmw
+11,12,0,gas,standard,4,berline,arriere,devant,2.57,4.49,1.65,1.38,1.2,ACT,4,1770.0,injection multipoint multipoint port unique,3.5,2.8,8.8,101,5800,10.226721,8.110847689655172,16925.0,320i,bmw
+12,13,0,gas,standard,2,berline,arriere,devant,2.57,4.49,1.65,1.38,1.36,ACT,6,2687.0,injection multipoint multipoint port unique,3.31,3.19,9.0,121,4250,11.20069442857143,8.400520821428572,20970.0,x1,bmw
+13,14,0,gas,standard,4,berline,arriere,devant,2.57,4.49,1.65,1.38,1.38,ACT,6,2687.0,injection multipoint multipoint port unique,3.31,3.19,9.0,121,4250,11.20069442857143,8.400520821428572,21105.0,x3,bmw
+14,15,1,gas,standard,4,berline,arriere,devant,2.63,4.8,1.7,1.41,1.53,ACT,6,2687.0,injection multipoint multipoint port unique,3.31,3.19,9.0,121,4250,11.76072915,9.40858332,24565.0,z4,bmw
+15,16,0,gas,standard,4,berline,arriere,devant,2.63,4.8,1.7,1.41,1.62,ACT,6,3425.0,injection multipoint multipoint port unique,3.62,3.39,8.0,182,5400,14.7009114375,10.691571954545454,30760.0,x4,bmw
+16,17,0,gas,standard,2,berline,arriere,devant,2.63,4.92,1.72,1.36,1.69,ACT,6,3425.0,injection multipoint multipoint port unique,3.62,3.39,8.0,182,5400,14.7009114375,10.691571954545454,41315.0,x5,bmw
+17,18,0,gas,standard,4,berline,arriere,devant,2.79,5.0,1.8,1.43,1.75,ACT,6,3425.0,injection multipoint multipoint port unique,3.62,3.39,8.0,182,5400,15.680972200000001,11.76072915,36880.0,x3,bmw
+18,19,2,gas,standard,2,hayon,avant,devant,2.25,3.58,1.53,1.35,0.74,ligne des cylindres,3,1000.0,carburateur 2 corps,2.91,3.03,9.5,48,5100,5.004565595744681,4.438011,5151.0,impala,chevrolet
+19,20,1,gas,standard,2,hayon,avant,devant,2.4,3.96,1.62,1.32,0.94,ACT,4,1475.0,carburateur 2 corps,3.03,3.11,9.6,70,5400,6.189857447368421,5.470106581395349,6295.0,monte carlo,chevrolet
+20,21,0,gas,standard,4,berline,avant,devant,2.4,4.03,1.62,1.32,0.95,ACT,4,1475.0,carburateur 2 corps,3.03,3.11,9.6,70,5400,6.189857447368421,5.470106581395349,6575.0,vega 2300,chevrolet
+21,22,1,gas,standard,2,hayon,avant,devant,2.38,4.0,1.62,1.29,0.94,ACT,4,1475.0,carburateur 2 corps,2.97,3.23,9.41,68,5500,6.357150891891892,5.736941048780488,5572.0,rampage,dodge
+22,23,1,gas,standard,2,hayon,avant,devant,2.38,4.0,1.62,1.29,0.94,ACT,4,1475.0,carburateur 2 corps,2.97,3.23,9.4,68,5500,7.587567193548387,6.189857447368421,6377.0,challenger se,dodge
+23,24,1,gas,turbo,2,hayon,avant,devant,2.38,4.0,1.62,1.29,1.06,ACT,4,1606.0,injection multipoint multipoint port unique,3.03,3.39,7.6,102,5500,9.800607625,7.840486100000001,7957.0,d200,dodge
+24,25,1,gas,standard,4,hayon,avant,devant,2.38,4.0,1.62,1.29,0.98,ACT,4,1475.0,carburateur 2 corps,2.97,3.23,9.4,68,5500,7.587567193548387,6.189857447368421,6229.0,monaco (sw),dodge
+25,26,1,gas,standard,4,berline,avant,devant,2.38,4.0,1.62,1.29,0.99,ACT,4,1475.0,carburateur 2 corps,2.97,3.23,9.4,68,5500,7.587567193548387,6.189857447368421,6692.0,colt hardtop,dodge
+26,27,1,gas,standard,4,berline,avant,devant,2.38,4.0,1.62,1.29,0.99,ACT,4,1475.0,carburateur 2 corps,2.97,3.23,9.4,68,5500,7.587567193548387,6.189857447368421,7609.0,colt (sw),dodge
+27,28,1,gas,turbo,2,berline,avant,devant,2.38,4.0,1.62,1.29,1.1,ACT,4,1606.0,injection multipoint multipoint port unique,3.03,3.39,7.6,102,5500,9.800607625,7.840486100000001,8558.0,coronet custom,dodge
+28,29,-1,gas,standard,4,break,avant,devant,2.62,4.43,1.64,1.52,1.27,ACT,4,1999.0,carburateur 2 corps,3.34,3.46,8.5,88,5000,9.800607625,7.840486100000001,8921.0,dart custom,dodge
+29,30,3,gas,turbo,2,hayon,avant,devant,2.44,4.4,1.68,1.28,1.41,ACT,4,2556.0,injection carburant multipoint,3.6,3.9,7.0,145,5000,12.379714894736843,9.800607625,12964.0,coronet custom (sw),dodge
+30,31,2,gas,standard,2,hayon,avant,devant,2.2,3.67,1.62,1.29,0.86,ACT,4,1508.0,carburateur 1 corps,2.91,3.41,9.6,58,4800,4.800297612244898,4.355825611111111,6479.0,civic,honda
+31,32,2,gas,standard,2,hayon,avant,devant,2.2,3.67,1.62,1.29,0.91,ACT,4,1508.0,carburateur 1 corps,2.91,3.41,9.2,76,6000,7.587567193548387,6.189857447368421,6855.0,civic cvcc,honda
+32,33,1,gas,standard,2,hayon,avant,devant,2.38,3.81,1.63,1.34,0.92,ACT,4,1295.0,carburateur 1 corps,2.91,3.07,10.1,60,5500,6.189857447368421,5.600347214285715,5399.0,civic,honda
+33,34,1,gas,standard,2,hayon,avant,devant,2.38,3.81,1.63,1.34,0.97,ACT,4,1508.0,carburateur 1 corps,2.91,3.41,9.2,76,6000,7.840486100000001,6.9180759705882355,6529.0,accord cvcc,honda
+34,35,1,gas,standard,2,hayon,avant,devant,2.38,3.81,1.63,1.34,0.98,ACT,4,1508.0,carburateur 1 corps,2.91,3.41,9.2,76,6000,7.840486100000001,6.9180759705882355,7129.0,civic cvcc,honda
+35,36,0,gas,standard,4,berline,avant,devant,2.45,4.15,1.63,1.38,1.0,ACT,4,1508.0,carburateur 1 corps,2.91,3.41,9.2,76,6000,7.840486100000001,6.9180759705882355,7295.0,accord lx,honda
+36,37,0,gas,standard,4,break,avant,devant,2.45,3.99,1.62,1.48,1.01,ACT,4,1508.0,carburateur 1 corps,2.92,3.41,9.2,76,6000,7.840486100000001,6.9180759705882355,7295.0,civic 1500 gl,honda
+37,38,0,gas,standard,2,hayon,avant,devant,2.45,4.25,1.66,1.35,1.12,ACT,4,1803.0,carburateur 1 corps,3.15,3.58,9.0,86,5800,8.711651222222223,7.127714636363637,7895.0,accord,honda
+38,39,0,gas,standard,2,hayon,avant,devant,2.45,4.25,1.66,1.35,1.14,ACT,4,1803.0,carburateur 1 corps,3.15,3.58,9.0,86,5800,8.711651222222223,7.127714636363637,9095.0,civic 1300,honda
+39,40,0,gas,standard,4,berline,avant,devant,2.45,4.46,1.66,1.37,1.15,ACT,4,1803.0,carburateur 1 corps,3.15,3.58,9.0,86,5800,8.711651222222223,7.127714636363637,8845.0,prelude,honda
+40,41,0,gas,standard,4,berline,avant,devant,2.45,4.46,1.59,1.37,1.19,ACT,4,1803.0,carburateur 1 corps,3.15,3.58,9.0,86,5800,8.711651222222223,7.127714636363637,10295.0,accord,honda
+41,42,0,gas,standard,4,berline,avant,devant,2.45,4.46,1.66,1.37,1.23,ACT,4,1803.0,injection multipoint multipoint port unique,3.15,3.58,9.0,101,5800,9.800607625,8.400520821428572,12945.0,civic,honda
+42,43,1,gas,standard,2,berline,avant,devant,2.45,4.3,1.68,1.3,1.15,ACT,4,1803.0,carburateur 2 corps,3.15,3.58,9.1,100,5500,9.40858332,7.587567193548387,10345.0,civic (auto),honda
+43,44,0,gas,standard,4,berline,arriere,devant,2.4,4.34,1.57,1.36,1.17,ACT,4,1819.0,carburateur 2 corps,3.31,3.23,8.5,78,4800,9.800607625,8.110847689655172,6785.0,MU-X,isuzu
+44,45,1,gas,standard,2,berline,avant,devant,2.4,3.96,1.62,1.32,0.94,ACT,4,1475.0,carburateur 2 corps,3.03,3.11,9.6,70,5400,6.189857447368421,5.470106581395349,8916.5,D-Max ,isuzu
+45,46,0,gas,standard,4,berline,avant,devant,2.4,3.96,1.62,1.32,0.95,ACT,4,1475.0,carburateur 2 corps,3.03,3.11,9.6,70,5400,6.189857447368421,5.470106581395349,8916.5,D-Max V-Cross,isuzu
+46,47,2,gas,standard,2,hayon,arriere,devant,2.44,4.38,1.66,1.31,1.37,ACT,4,1950.0,injection monopoint,3.43,3.23,9.2,90,5000,9.800607625,8.110847689655172,11048.0,D-Max ,isuzu
+47,48,0,gas,standard,4,berline,arriere,devant,2.87,5.07,1.77,1.34,2.03,double ACT,6,4228.0,injection multipoint multipoint port unique,3.63,4.17,8.1,176,4750,15.680972200000001,12.379714894736843,32250.0,xj,jaguar
+48,49,0,gas,standard,4,berline,arriere,devant,2.87,5.07,1.77,1.34,2.03,double ACT,6,4228.0,injection multipoint multipoint port unique,3.63,4.17,8.1,176,4750,15.680972200000001,12.379714894736843,35550.0,xf,jaguar
+49,50,0,gas,standard,2,berline,arriere,devant,2.59,4.87,1.79,1.21,1.98,soupapes en tête à manchon,12,5342.0,injection multipoint multipoint port unique,3.54,2.76,11.5,262,5000,18.093429461538463,13.836151941176471,36000.0,xk,jaguar
+50,51,1,gas,standard,2,hayon,avant,devant,2.36,4.04,1.63,1.37,0.94,ACT,4,1491.0,carburateur 2 corps,3.03,3.15,9.0,68,5000,7.840486100000001,7.587567193548387,5195.0,rx3,mazda
+51,52,1,gas,standard,2,hayon,avant,devant,2.36,4.04,1.63,1.37,0.95,ACT,4,1491.0,carburateur 2 corps,3.03,3.15,9.0,68,5000,7.587567193548387,6.189857447368421,6095.0,glc deluxe,mazda
+52,53,1,gas,standard,2,hayon,avant,devant,2.36,4.04,1.63,1.37,0.95,ACT,4,1491.0,carburateur 2 corps,3.03,3.15,9.0,68,5000,7.587567193548387,6.189857447368421,6795.0,rx2 coupe,mazda
+53,54,1,gas,standard,4,berline,avant,devant,2.36,4.24,1.63,1.37,0.97,ACT,4,1491.0,carburateur 2 corps,3.03,3.15,9.0,68,5000,7.587567193548387,6.189857447368421,6695.0,rx-4,mazda
+54,55,1,gas,standard,4,berline,avant,devant,2.36,4.24,1.63,1.37,0.98,ACT,4,1491.0,carburateur 2 corps,3.08,3.15,9.0,68,5000,7.587567193548387,6.189857447368421,7395.0,glc deluxe,mazda
+55,56,3,gas,standard,2,hayon,arriere,devant,2.42,4.29,1.67,1.26,1.19,moteur rotatif,2,1147.0,carburateur 4 corps,3.33,3.255,9.4,101,6000,13.836151941176471,10.226721,10945.0,626,mazda
+56,57,3,gas,standard,2,hayon,arriere,devant,2.42,4.29,1.67,1.26,1.19,moteur rotatif,2,1147.0,carburateur 4 corps,3.33,3.255,9.4,101,6000,13.836151941176471,10.226721,11845.0,glc,mazda
+57,58,3,gas,standard,2,hayon,arriere,devant,2.42,4.29,1.67,1.26,1.19,moteur rotatif,2,1147.0,carburateur 4 corps,3.33,3.255,9.4,101,6000,13.836151941176471,10.226721,13645.0,rx-7 gs,mazda
+58,59,3,gas,standard,2,hayon,arriere,devant,2.42,4.29,1.67,1.26,1.25,moteur rotatif,2,1311.0,injection multipoint multipoint port unique,3.33,3.255,9.4,135,6000,14.7009114375,10.226721,15645.0,glc 4,mazda
+59,60,1,gas,standard,2,hayon,avant,devant,2.51,4.52,1.69,1.36,1.19,ACT,4,1999.0,carburateur 2 corps,3.39,3.39,8.6,84,4800,9.046714730769231,7.35045571875,8845.0,626,mazda
+60,61,0,gas,standard,4,berline,avant,devant,2.51,4.52,1.69,1.41,1.2,ACT,4,1999.0,carburateur 2 corps,3.39,3.39,8.6,84,4800,9.046714730769231,7.35045571875,8495.0,glc custom l,mazda
+61,62,1,gas,standard,2,hayon,avant,devant,2.51,4.52,1.69,1.36,1.19,ACT,4,1999.0,carburateur 2 corps,3.39,3.39,8.6,84,4800,9.046714730769231,7.35045571875,10595.0,glc custom,mazda
+62,63,0,gas,standard,4,berline,avant,devant,2.51,4.52,1.69,1.41,1.2,ACT,4,1999.0,carburateur 2 corps,3.39,3.39,8.6,84,4800,9.046714730769231,7.35045571875,10245.0,rx-4,mazda
+63,64,0,diesel,standard,4,berline,avant,devant,2.51,4.52,1.69,1.41,1.22,ACT,4,1999.0,injection indirecte,3.39,3.39,22.7,64,4650,6.533738416666667,5.600347214285715,10795.0,glc deluxe,mazda
+64,65,0,gas,standard,4,hayon,avant,devant,2.51,4.52,1.69,1.41,1.21,ACT,4,1999.0,carburateur 2 corps,3.39,3.39,8.6,84,4800,9.046714730769231,7.35045571875,11245.0,626,mazda
+65,66,0,gas,standard,4,berline,arriere,devant,2.66,4.45,1.68,1.38,1.34,ACT,4,2294.0,injection multipoint multipoint port unique,3.76,3.16,8.0,120,5000,12.379714894736843,8.711651222222223,18280.0,glc,mazda
+66,67,0,diesel,standard,4,berline,arriere,devant,2.66,4.45,1.68,1.38,1.35,ACT,4,2196.0,injection indirecte,3.43,3.64,22.0,72,4200,7.587567193548387,6.031143153846154,18344.0,rx-7 gs,mazda
+67,68,-1,diesel,turbo,4,berline,arriere,devant,2.79,4.85,1.79,1.44,1.76,ACT,5,2999.0,injection indirecte,3.58,3.64,21.5,123,4350,10.691571954545454,9.40858332,25552.0,electra 225 custom,buick
+68,69,-1,diesel,turbo,4,break,arriere,devant,2.79,4.85,1.79,1.49,1.88,ACT,5,2999.0,injection indirecte,3.58,3.64,21.5,123,4350,10.691571954545454,9.40858332,28248.0,century luxus (sw),buick
+69,70,0,diesel,turbo,2,coupe,arriere,devant,2.71,4.76,1.79,1.39,1.75,ACT,5,2999.0,injection indirecte,3.58,3.64,21.5,123,4350,10.691571954545454,9.40858332,28176.0,century,buick
+70,71,-1,diesel,turbo,4,berline,arriere,devant,2.94,5.15,1.82,1.43,1.88,ACT,5,2999.0,injection indirecte,3.58,3.64,21.5,123,4350,10.691571954545454,9.40858332,31600.0,skyhawk,buick
+71,72,-1,gas,standard,4,berline,arriere,devant,2.94,5.15,1.82,1.44,1.87,soupapes en tête à manchon,8,3835.0,injection multipoint multipoint port unique,3.46,3.1,8.3,155,4750,14.7009114375,13.067476833333334,34184.0,opel isuzu deluxe,buick
+72,73,3,gas,standard,2,decapotable,arriere,devant,2.45,4.58,1.79,1.29,1.84,soupapes en tête à manchon,8,3835.0,injection multipoint multipoint port unique,3.46,3.1,8.3,155,4750,14.7009114375,13.067476833333334,35056.0,skylark,buick
+73,74,0,gas,standard,4,berline,arriere,devant,3.07,5.29,1.82,1.44,1.95,soupapes en tête à manchon,8,5047.0,injection multipoint multipoint port unique,3.8,3.35,8.0,184,4500,16.801041642857143,14.7009114375,40960.0,century special,buick
+74,75,1,gas,standard,2,coupe,arriere,devant,2.84,5.06,1.83,1.41,1.86,soupapes en tête à manchon,8,4982.0,injection multipoint multipoint port unique,3.8,3.35,8.0,184,4500,16.801041642857143,14.7009114375,45400.0,regal sport coupe (turbo),buick
+75,76,1,gas,turbo,2,hayon,arriere,devant,2.61,4.53,1.73,1.39,1.46,ACT,4,2294.0,injection multipoint multipoint port unique,3.78,3.12,8.0,175,5000,12.379714894736843,9.800607625,16503.0,cougar,mercury
+76,77,2,gas,standard,2,hayon,avant,devant,2.38,4.0,1.64,1.29,0.96,ACT,4,1508.0,carburateur 2 corps,2.97,3.23,9.4,68,5500,6.357150891891892,5.736941048780488,5389.0,mirage,mitsubishi
+77,78,2,gas,standard,2,hayon,avant,devant,2.38,4.0,1.64,1.29,0.97,ACT,4,1508.0,carburateur 2 corps,2.97,3.23,9.4,68,5500,7.587567193548387,6.189857447368421,6189.0,lancer,mitsubishi
+78,79,2,gas,standard,2,hayon,avant,devant,2.38,4.0,1.64,1.29,1.0,ACT,4,1508.0,carburateur 2 corps,2.97,3.23,9.4,68,5500,7.587567193548387,6.189857447368421,6669.0,outlander,mitsubishi
+79,80,1,gas,turbo,2,hayon,avant,devant,2.36,4.0,1.62,1.29,1.07,ACT,4,1606.0,injection D monopoint,3.03,3.39,7.6,102,5500,9.800607625,7.840486100000001,7689.0,g4,mitsubishi
+80,81,3,gas,turbo,2,hayon,avant,devant,2.45,4.39,1.66,1.25,1.18,ACT,4,1803.0,injection D monopoint,3.17,3.46,7.5,116,5500,10.226721,7.840486100000001,9959.0,mirage g4,mitsubishi
+81,82,3,gas,standard,2,hayon,avant,devant,2.45,4.39,1.66,1.25,1.16,ACT,4,1999.0,carburateur 2 corps,3.35,3.46,8.5,88,5000,9.40858332,7.35045571875,8499.0,g4,mitsubishi
+82,83,3,gas,turbo,2,hayon,avant,devant,2.44,4.4,1.68,1.28,1.42,ACT,4,2556.0,injection D monopoint,3.58,3.86,7.0,145,5000,12.379714894736843,9.800607625,12629.0,outlander,mitsubishi
+83,84,3,gas,turbo,2,hayon,avant,devant,2.44,4.4,1.68,1.28,1.46,ACT,4,2556.0,injection D monopoint,3.59,3.86,7.0,145,5000,12.379714894736843,9.800607625,14869.0,g4,mitsubishi
+84,85,3,gas,turbo,2,hayon,avant,devant,2.44,4.4,1.68,1.28,1.46,ACT,4,2556.0,injection D monopoint,3.59,3.86,7.0,145,5000,12.379714894736843,9.800607625,14489.0,mirage g4,mitsubishi
+85,86,1,gas,standard,4,berline,avant,devant,2.45,4.38,1.66,1.31,1.18,ACT,4,1999.0,carburateur 2 corps,3.35,3.46,8.5,88,5000,9.40858332,7.35045571875,6989.0,montero,mitsubishi
+86,87,1,gas,standard,4,berline,avant,devant,2.45,4.38,1.66,1.31,1.2,ACT,4,1999.0,carburateur 2 corps,3.35,3.46,8.5,88,5000,9.40858332,7.35045571875,8189.0,pajero,mitsubishi
+87,88,1,gas,turbo,4,berline,avant,devant,2.45,4.38,1.66,1.31,1.2,ACT,4,1803.0,injection D monopoint,3.17,3.46,7.5,116,5500,10.226721,7.840486100000001,9279.0,outlander,mitsubishi
+88,89,-1,gas,standard,4,berline,avant,devant,2.45,4.38,1.66,1.31,1.2,ACT,4,1803.0,injection D monopoint,3.17,3.46,7.5,116,5500,10.226721,7.840486100000001,9279.0,mirage g4,mitsubishi
+89,90,1,gas,standard,2,berline,avant,devant,2.4,4.2,1.62,1.38,0.94,ACT,4,1590.0,carburateur 2 corps,3.15,3.29,9.4,69,5200,7.587567193548387,6.357150891891892,5499.0,versa,nissan
+90,91,1,diesel,standard,2,berline,avant,devant,2.4,4.2,1.62,1.38,1.01,ACT,4,1688.0,injection indirecte,2.99,3.47,21.9,55,4800,5.226990733333333,4.70429166,7099.0,gt-r,nissan
+91,92,1,gas,standard,2,berline,avant,devant,2.4,4.2,1.62,1.38,0.96,ACT,4,1590.0,carburateur 2 corps,3.15,3.29,9.4,69,5200,7.587567193548387,6.357150891891892,6649.0,rogue,nissan
+92,93,1,gas,standard,4,berline,avant,devant,2.4,4.2,1.62,1.38,0.97,ACT,4,1590.0,carburateur 2 corps,3.15,3.29,9.4,69,5200,7.587567193548387,6.357150891891892,6849.0,latio,nissan
+93,94,1,gas,standard,4,break,avant,devant,2.4,4.32,1.62,1.36,1.01,ACT,4,1590.0,carburateur 2 corps,3.15,3.29,9.4,69,5200,7.587567193548387,6.357150891891892,7349.0,titan,nissan
+94,95,1,gas,standard,2,berline,avant,devant,2.4,4.2,1.62,1.38,0.98,ACT,4,1590.0,carburateur 2 corps,3.15,3.29,9.4,69,5200,7.587567193548387,6.357150891891892,7299.0,leaf,nissan
+95,96,1,gas,standard,2,hayon,avant,devant,2.4,4.21,1.62,1.35,1.01,ACT,4,1590.0,carburateur 2 corps,3.15,3.29,9.4,69,5200,7.587567193548387,6.357150891891892,7799.0,juke,nissan
+96,97,1,gas,standard,4,berline,avant,devant,2.4,4.2,1.62,1.38,0.99,ACT,4,1590.0,carburateur 2 corps,3.15,3.29,9.4,69,5200,7.587567193548387,6.357150891891892,7499.0,latio,nissan
+97,98,1,gas,standard,4,break,avant,devant,2.4,4.32,1.62,1.36,1.02,ACT,4,1590.0,carburateur 2 corps,3.15,3.29,9.4,69,5200,7.587567193548387,6.357150891891892,7999.0,note,nissan
+98,99,2,gas,standard,2,coupe,avant,devant,2.42,4.12,1.62,1.35,1.0,ACT,4,1590.0,carburateur 2 corps,3.15,3.29,9.4,69,5200,7.587567193548387,6.357150891891892,8249.0,clipper,nissan
+99,100,0,gas,standard,4,hayon,avant,devant,2.47,4.4,1.66,1.39,1.16,ACT,4,1966.0,carburateur 2 corps,3.33,3.47,8.5,97,5200,8.711651222222223,6.9180759705882355,8949.0,rogue,nissan
+100,101,0,gas,standard,4,berline,avant,devant,2.47,4.4,1.66,1.39,1.15,ACT,4,1966.0,carburateur 2 corps,3.33,3.47,8.5,97,5200,8.711651222222223,6.9180759705882355,9549.0,nv200,nissan
+101,102,0,gas,standard,4,berline,avant,devant,2.55,4.62,1.69,1.4,1.55,soupapes en tête à manchon,6,2966.0,injection multipoint multipoint port unique,3.43,3.27,9.0,152,5200,13.836151941176471,10.691571954545454,13499.0,dayz,nissan
+102,103,0,gas,standard,4,break,avant,devant,2.55,4.69,1.69,1.42,1.65,soupapes en tête à manchon,6,2966.0,injection multipoint multipoint port unique,3.43,3.27,9.0,152,5200,13.836151941176471,10.691571954545454,14399.0,fuga,nissan
+103,104,0,gas,standard,4,berline,avant,devant,2.55,4.69,1.69,1.4,1.53,soupapes en tête à manchon,6,2966.0,injection multipoint multipoint port unique,3.43,3.27,9.0,152,5200,12.379714894736843,9.40858332,13499.0,otti,nissan
+104,105,3,gas,standard,2,hayon,arriere,devant,2.32,4.34,1.72,1.26,1.54,soupapes en tête à manchon,6,2966.0,injection multipoint multipoint port unique,3.43,3.27,9.0,160,5200,12.379714894736843,9.40858332,17199.0,teana,nissan
+105,106,3,gas,turbo,2,hayon,arriere,devant,2.32,4.34,1.72,1.26,1.57,soupapes en tête à manchon,6,2966.0,injection multipoint multipoint port unique,3.43,3.27,7.8,200,5200,13.836151941176471,10.226721,19699.0,kicks,nissan
+106,107,1,gas,standard,2,hayon,arriere,devant,2.52,4.53,1.72,1.26,1.57,soupapes en tête à manchon,6,2966.0,injection multipoint multipoint port unique,3.43,3.27,9.0,160,5200,12.379714894736843,9.40858332,18399.0,clipper,nissan
+107,108,0,gas,standard,4,berline,arriere,devant,2.74,4.74,1.74,1.44,1.51,ligne des cylindres,4,1966.0,injection multipoint multipoint port unique,3.46,3.19,8.4,97,5000,12.379714894736843,9.800607625,11900.0,504,peugeot
+108,109,0,diesel,turbo,4,berline,arriere,devant,2.74,4.74,1.74,1.44,1.6,ligne des cylindres,4,2491.0,injection indirecte,3.7,3.52,21.0,95,4150,8.400520821428572,7.127714636363637,13200.0,304,peugeot
+109,110,0,gas,standard,4,break,arriere,devant,2.9,5.05,1.74,1.49,1.62,ligne des cylindres,4,1966.0,injection multipoint multipoint port unique,3.46,3.19,8.4,97,5000,12.379714894736843,9.800607625,12440.0,504 (sw),peugeot
+110,111,0,diesel,turbo,4,break,arriere,devant,2.9,5.05,1.74,1.49,1.72,ligne des cylindres,4,2491.0,injection indirecte,3.7,3.52,21.0,95,4150,9.40858332,9.40858332,13860.0,504 turbo break,peugeot
+111,112,0,gas,standard,4,berline,arriere,devant,2.74,4.74,1.74,1.44,1.54,ligne des cylindres,4,1966.0,injection multipoint multipoint port unique,3.46,2.19,8.4,95,5000,12.379714894736843,9.800607625,15580.0,504 gas 95ch,peugeot
+112,113,0,diesel,turbo,4,berline,arriere,devant,2.74,4.74,1.74,1.44,1.63,ligne des cylindres,4,2491.0,injection indirecte,3.7,3.52,21.0,95,4150,8.400520821428572,7.127714636363637,16900.0,604sl,peugeot
+113,114,0,gas,standard,4,break,arriere,devant,2.9,5.05,1.74,1.44,1.64,ligne des cylindres,4,1966.0,injection multipoint multipoint port unique,3.46,2.19,8.4,95,5000,12.379714894736843,9.800607625,16695.0,504 essence break,peugeot
+114,115,0,diesel,turbo,4,break,arriere,devant,2.9,5.05,1.74,1.49,1.74,ligne des cylindres,4,2491.0,injection indirecte,3.7,3.52,21.0,95,4150,9.40858332,9.40858332,17075.0,505s turbo diesel,peugeot
+115,116,0,gas,standard,4,berline,arriere,devant,2.74,4.74,1.74,1.44,1.54,ligne des cylindres,4,1966.0,injection multipoint multipoint port unique,3.46,3.19,8.4,97,5000,12.379714894736843,9.800607625,16630.0,504 gas 97ch,peugeot
+116,117,0,diesel,turbo,4,berline,arriere,devant,2.74,4.74,1.74,1.44,1.63,ligne des cylindres,4,2491.0,injection indirecte,3.7,3.52,21.0,95,4150,8.400520821428572,7.127714636363637,17950.0,504 turbo,peugeot
+117,118,0,gas,turbo,4,berline,arriere,devant,2.74,4.74,1.73,1.42,1.56,ligne des cylindres,4,2196.0,injection multipoint multipoint port unique,3.61,3.21,7.0,142,5600,13.067476833333334,9.800607625,18150.0,604sl,peugeot
+118,119,1,gas,standard,2,hayon,avant,devant,2.38,4.0,1.62,1.29,0.96,ACT,4,1475.0,carburateur 2 corps,2.97,3.23,9.4,68,5500,6.357150891891892,5.736941048780488,5572.0,fury iii,plymouth
+119,120,1,gas,turbo,2,hayon,avant,devant,2.38,4.0,1.62,1.29,1.06,ACT,4,1606.0,injection D monopoint,3.03,3.39,7.6,102,5500,9.800607625,7.840486100000001,7957.0,cricket,plymouth
+120,121,1,gas,standard,4,hayon,avant,devant,2.38,4.0,1.62,1.29,0.98,ACT,4,1475.0,carburateur 2 corps,2.97,3.23,9.4,68,5500,7.587567193548387,6.189857447368421,6229.0,fury iii,plymouth
+121,122,1,gas,standard,4,berline,avant,devant,2.38,4.25,1.62,1.29,0.99,ACT,4,1475.0,carburateur 2 corps,2.97,3.23,9.4,68,5500,7.587567193548387,6.189857447368421,6692.0,satellite custom (sw),plymouth
+122,123,1,gas,standard,4,berline,avant,devant,2.38,4.25,1.62,1.29,1.1,ACT,4,1606.0,carburateur 2 corps,2.97,3.23,9.4,68,5500,7.587567193548387,6.189857447368421,7609.0,fury gran sedan,plymouth
+123,124,-1,gas,standard,4,break,avant,devant,2.62,4.43,1.64,1.52,1.27,ACT,4,1999.0,carburateur 2 corps,3.35,3.46,8.5,88,5000,9.800607625,7.840486100000001,8921.0,valiant,plymouth
+124,125,3,gas,turbo,2,hayon,arriere,devant,2.44,4.4,1.68,1.28,1.41,ACT,4,2556.0,injection D monopoint,3.59,3.86,7.0,145,5000,12.379714894736843,9.800607625,12764.0,duster,plymouth
+125,126,3,gas,standard,2,hayon,arriere,devant,2.4,4.29,1.73,1.28,1.39,ACT,4,2474.0,injection multipoint multipoint port unique,3.94,3.11,9.5,143,5500,12.379714894736843,8.711651222222223,22018.0,macan,porsche
+126,127,3,gas,standard,2,coupe,arriere,derrier,2.27,4.29,1.65,1.31,1.38,soupapes en tête à flux croisés,6,3179.0,injection multipoint multipoint port unique,3.74,2.9,9.5,207,5900,13.836151941176471,9.40858332,32528.0,panamera,porsche
+127,128,3,gas,standard,2,coupe,arriere,derrier,2.27,4.29,1.65,1.31,1.38,soupapes en tête à flux croisés,6,3179.0,injection multipoint multipoint port unique,3.74,2.9,9.5,207,5900,13.836151941176471,9.40858332,34028.0,cayenne,porsche
+128,129,3,gas,standard,2,decapotable,arriere,derrier,2.27,4.29,1.65,1.31,1.4,soupapes en tête à flux croisés,6,3179.0,injection multipoint multipoint port unique,3.74,2.9,9.5,207,5900,13.836151941176471,9.40858332,37028.0,boxter,porsche
+129,130,1,gas,standard,2,hayon,arriere,devant,2.5,4.46,1.84,1.28,1.68,double ACT à soupapes en V,8,3327.0,injection multipoint multipoint port unique,3.94,3.11,10.0,288,5750,13.836151941176471,8.400520821428572,31400.5,cayenne,porsche
+130,131,0,gas,standard,4,break,avant,devant,2.44,4.61,1.69,1.4,1.29,ACT,4,2163.0,injection multipoint multipoint port unique,3.46,3.9,8.7,90,5100,10.226721,7.587567193548387,9295.0,12tl,renault
+131,132,2,gas,standard,2,hayon,avant,devant,2.44,4.49,1.69,1.28,1.23,ACT,4,2163.0,injection multipoint multipoint port unique,3.46,3.9,8.7,90,5100,10.226721,7.587567193548387,9895.0,5 gtl,renault
+132,133,3,gas,standard,2,hayon,avant,devant,2.52,4.74,1.69,1.42,1.33,ACT,4,1983.0,injection multipoint multipoint port unique,3.54,3.07,9.31,110,5250,11.20069442857143,8.400520821428572,11850.0,99e,saab
+133,134,2,gas,standard,4,berline,avant,devant,2.52,4.74,1.69,1.42,1.35,ACT,4,1983.0,injection multipoint multipoint port unique,3.54,3.07,9.3,110,5250,11.20069442857143,8.400520821428572,12170.0,99le,saab
+134,135,3,gas,standard,2,hayon,avant,devant,2.52,4.74,1.69,1.42,1.35,ACT,4,1983.0,injection multipoint multipoint port unique,2.54,2.07,9.3,110,5250,11.20069442857143,8.400520821428572,15040.0,99le,saab
+135,136,2,gas,standard,4,berline,avant,devant,2.52,4.74,1.69,1.42,1.38,ACT,4,1983.0,injection multipoint multipoint port unique,3.54,3.07,9.3,110,5250,11.20069442857143,8.400520821428572,15510.0,99gle,saab
+136,137,3,gas,turbo,2,hayon,avant,devant,2.52,4.74,1.69,1.42,1.4,double ACT,4,1983.0,injection multipoint multipoint port unique,3.54,3.07,9.0,160,5500,12.379714894736843,9.046714730769231,18150.0,99gle,saab
+137,138,2,gas,turbo,4,berline,avant,devant,2.52,4.74,1.69,1.42,1.42,double ACT,4,1983.0,injection multipoint multipoint port unique,3.54,3.07,9.0,160,5500,12.379714894736843,9.046714730769231,18620.0,99e,saab
+138,139,2,gas,standard,2,hayon,avant,devant,2.38,3.99,1.61,1.36,1.02,soupapes en tête à flux croisés,4,1590.0,carburateur 2 corps,3.62,2.36,9.0,69,4900,7.587567193548387,6.533738416666667,5118.0,,subaru
+139,140,2,gas,standard,2,hayon,avant,devant,2.38,4.01,1.62,1.36,1.06,soupapes en tête à flux croisés,4,1770.0,carburateur 2 corps,3.62,2.64,8.7,73,4400,9.046714730769231,7.587567193548387,7053.0,dl,subaru
+140,141,2,gas,standard,2,hayon,4motrice,devant,2.37,4.0,1.62,1.41,1.12,soupapes en tête à flux croisés,4,1770.0,carburateur 2 corps,3.62,2.64,8.7,73,4400,9.046714730769231,7.587567193548387,7603.0,dl,subaru
+141,142,0,gas,standard,4,berline,avant,devant,2.47,4.37,1.66,1.33,1.07,soupapes en tête à flux croisés,4,1770.0,carburateur 2 corps,3.62,2.64,9.5,82,4800,7.35045571875,6.357150891891892,7126.0,,subaru
+142,143,0,gas,standard,4,berline,avant,devant,2.47,4.37,1.66,1.33,1.1,soupapes en tête à flux croisés,4,1770.0,carburateur 2 corps,3.62,2.64,9.5,82,4400,8.400520821428572,7.127714636363637,7775.0,brz,subaru
+143,144,0,gas,standard,4,berline,avant,devant,2.47,4.37,1.66,1.33,1.17,soupapes en tête à flux croisés,4,1770.0,injection multipoint multipoint port unique,3.62,2.64,9.0,94,5200,9.046714730769231,7.35045571875,9960.0,baja,subaru
+144,145,0,gas,standard,4,berline,4motrice,devant,2.46,4.37,1.66,1.38,1.19,soupapes en tête à flux croisés,4,1770.0,carburateur 2 corps,3.62,2.64,9.0,82,4800,9.800607625,9.40858332,9233.0,r1,subaru
+145,146,0,gas,turbo,4,berline,4motrice,devant,2.46,4.37,1.66,1.38,1.25,soupapes en tête à flux croisés,4,1770.0,injection multipoint multipoint port unique,3.62,2.64,7.7,111,4800,9.800607625,8.110847689655172,11259.0,r2,subaru
+146,147,0,gas,standard,4,break,avant,devant,2.46,4.41,1.66,1.35,1.14,soupapes en tête à flux croisés,4,1770.0,carburateur 2 corps,3.62,2.64,9.0,82,4800,8.400520821428572,7.35045571875,7463.0,trezia,subaru
+147,148,0,gas,standard,4,break,avant,devant,2.46,4.41,1.66,1.35,1.23,soupapes en tête à flux croisés,4,1770.0,injection multipoint multipoint port unique,3.62,2.64,9.0,94,5200,9.40858332,7.587567193548387,10198.0,tribeca,subaru
+148,149,0,gas,standard,4,break,4motrice,devant,2.46,4.41,1.66,1.39,1.21,soupapes en tête à flux croisés,4,1770.0,carburateur 2 corps,3.62,2.64,9.0,82,4800,10.226721,8.110847689655172,8013.0,dl,subaru
+149,150,0,gas,turbo,4,break,4motrice,devant,2.46,4.41,1.66,1.39,1.32,soupapes en tête à flux croisés,4,1770.0,injection multipoint multipoint port unique,3.62,2.64,7.7,111,4800,10.226721,10.226721,11694.0,dl,subaru
+150,151,1,gas,standard,2,hayon,avant,devant,2.43,4.03,1.62,1.38,0.99,ACT,4,1508.0,carburateur 2 corps,3.05,3.03,9.0,62,4800,6.720416657142858,6.031143153846154,5348.0,corona mark ii,toyota
+151,152,1,gas,standard,2,hayon,avant,devant,2.43,4.03,1.62,1.38,1.02,ACT,4,1508.0,carburateur 2 corps,3.05,3.03,9.0,62,4800,7.587567193548387,6.189857447368421,6338.0,corona,toyota
+152,153,1,gas,standard,4,hayon,avant,devant,2.43,4.03,1.62,1.38,1.01,ACT,4,1508.0,carburateur 2 corps,3.05,3.03,9.0,62,4800,7.587567193548387,6.189857447368421,6488.0,corolla 1200,toyota
+153,154,0,gas,standard,4,break,avant,devant,2.43,4.31,1.62,1.5,1.14,ACT,4,1508.0,carburateur 2 corps,3.05,3.03,9.0,62,4800,7.587567193548387,6.357150891891892,6918.0,corona hardtop,toyota
+154,155,0,gas,standard,4,break,4motrice,devant,2.43,4.31,1.62,1.5,1.14,ACT,4,1508.0,carburateur 2 corps,3.05,3.03,9.0,62,4800,8.711651222222223,7.35045571875,7898.0,corolla 1600 (sw),toyota
+155,156,0,gas,standard,4,break,4motrice,devant,2.43,4.31,1.62,1.5,1.56,ACT,4,1508.0,carburateur 2 corps,3.05,3.03,9.0,62,4800,8.711651222222223,7.35045571875,8778.0,carina,toyota
+156,157,0,gas,standard,4,berline,avant,devant,2.43,4.22,1.64,1.35,1.04,ACT,4,1606.0,carburateur 2 corps,3.19,3.03,9.0,70,4800,7.840486100000001,6.357150891891892,6938.0,mark ii,toyota
+157,158,0,gas,standard,4,hayon,avant,devant,2.43,4.22,1.64,1.34,1.05,ACT,4,1606.0,carburateur 2 corps,3.19,3.03,9.0,70,4800,7.840486100000001,6.357150891891892,7198.0,corolla 1200,toyota
+158,159,0,diesel,standard,4,berline,avant,devant,2.43,4.22,1.64,1.35,1.14,ACT,4,1803.0,injection indirecte,3.27,3.35,22.5,56,4500,6.9180759705882355,6.533738416666667,7898.0,corona,toyota
+159,160,0,diesel,standard,4,hayon,avant,devant,2.43,4.22,1.64,1.34,1.14,ACT,4,1803.0,injection indirecte,3.27,3.35,22.5,56,4500,6.189857447368421,5.004565595744681,7788.0,corolla,toyota
+160,161,0,gas,standard,4,berline,avant,devant,2.43,4.22,1.64,1.35,1.05,ACT,4,1606.0,carburateur 2 corps,3.19,3.03,9.0,70,4800,6.189857447368421,5.004565595744681,7738.0,corona,toyota
+161,162,0,gas,standard,4,hayon,avant,devant,2.43,4.22,1.64,1.34,1.06,ACT,4,1606.0,carburateur 2 corps,3.19,3.03,9.0,70,4800,8.400520821428572,6.9180759705882355,8358.0,corolla,toyota
+162,163,0,gas,standard,4,berline,avant,devant,2.43,4.22,1.64,1.34,1.07,ACT,4,1606.0,carburateur 2 corps,3.19,3.03,9.0,70,4800,8.400520821428572,6.9180759705882355,9258.0,mark ii,toyota
+163,164,1,gas,standard,2,berline,arriere,devant,2.4,4.28,1.63,1.34,1.08,ACT,4,1606.0,carburateur 2 corps,3.19,3.03,9.0,70,4800,8.110847689655172,6.9180759705882355,8058.0,corolla liftback,toyota
+164,165,1,gas,standard,2,hayon,arriere,devant,2.4,4.28,1.63,1.34,1.1,ACT,4,1606.0,carburateur 2 corps,3.19,3.03,9.0,70,4800,8.110847689655172,6.9180759705882355,8238.0,corona,toyota
+165,166,1,gas,standard,2,berline,arriere,devant,2.4,4.28,1.63,1.34,1.13,double ACT,4,1606.0,injection multipoint multipoint port unique,3.24,3.08,9.4,112,6600,9.046714730769231,8.110847689655172,9298.0,celica gt liftback,toyota
+166,167,1,gas,standard,2,hayon,arriere,devant,2.4,4.28,1.63,1.34,1.15,double ACT,4,1606.0,injection multipoint multipoint port unique,3.24,3.08,9.4,112,6600,9.046714730769231,8.110847689655172,9538.0,corolla tercel,toyota
+167,168,2,gas,standard,2,coupe,arriere,devant,2.5,4.48,1.67,1.32,1.27,ACT,4,2393.0,injection multipoint multipoint port unique,3.62,3.5,9.3,116,4800,9.800607625,7.840486100000001,8449.0,corona liftback,toyota
+168,169,2,gas,standard,2,coupe,arriere,devant,2.5,4.48,1.67,1.32,1.27,ACT,4,2393.0,injection multipoint multipoint port unique,3.62,3.5,9.3,116,4800,9.800607625,7.840486100000001,9639.0,corolla,toyota
+169,170,2,gas,standard,2,hayon,arriere,devant,2.5,4.48,1.67,1.32,1.28,ACT,4,2393.0,injection multipoint multipoint port unique,3.62,3.5,9.3,116,4800,9.800607625,7.840486100000001,9989.0,starlet,toyota
+170,171,2,gas,standard,2,coupe,arriere,devant,2.5,4.48,1.67,1.32,1.34,ACT,4,2393.0,injection multipoint multipoint port unique,3.62,3.5,9.3,116,4800,9.800607625,7.840486100000001,11199.0,tercel,toyota
+171,172,2,gas,standard,2,hayon,arriere,devant,2.5,4.48,1.67,1.32,1.36,ACT,4,2393.0,injection multipoint multipoint port unique,3.62,3.5,9.3,116,4800,9.800607625,7.840486100000001,11549.0,corolla,toyota
+172,173,2,gas,standard,2,decapotable,arriere,devant,2.5,4.48,1.67,1.35,1.49,ACT,4,2393.0,injection multipoint multipoint port unique,3.62,3.5,9.3,116,4800,9.800607625,7.840486100000001,17669.0,cressida,toyota
+173,174,-1,gas,standard,4,berline,avant,devant,2.6,4.46,1.69,1.39,1.16,ACT,4,1999.0,injection multipoint multipoint port unique,3.31,3.54,8.7,92,4200,8.110847689655172,6.9180759705882355,8948.0,corolla,toyota
+174,175,-1,diesel,turbo,4,berline,avant,devant,2.6,4.46,1.69,1.39,1.24,ACT,4,1803.0,injection indirecte,3.27,3.35,22.5,73,4500,7.840486100000001,7.127714636363637,10698.0,celica gt,toyota
+175,176,-1,gas,standard,4,hayon,avant,devant,2.6,4.46,1.69,1.37,1.21,ACT,4,1999.0,injection multipoint multipoint port unique,3.31,3.54,8.7,92,4200,8.711651222222223,7.35045571875,9988.0,corona,toyota
+176,177,-1,gas,standard,4,berline,avant,devant,2.6,4.46,1.69,1.39,1.21,ACT,4,1999.0,injection multipoint multipoint port unique,3.31,3.54,8.7,92,4200,8.711651222222223,7.35045571875,10898.0,corolla,toyota
+177,178,-1,gas,standard,4,hayon,avant,devant,2.6,4.46,1.69,1.37,1.23,ACT,4,1999.0,injection multipoint multipoint port unique,3.31,3.54,8.7,92,4200,8.711651222222223,7.35045571875,11248.0,mark ii,toyota
+178,179,3,gas,standard,2,hayon,arriere,devant,2.61,4.66,1.72,1.32,1.49,double ACT,6,2802.0,injection multipoint multipoint port unique,3.27,3.35,9.3,161,5200,11.76072915,9.800607625,16558.0,corolla liftback,toyota
+179,180,3,gas,standard,2,hayon,arriere,devant,2.61,4.66,1.72,1.32,1.51,double ACT,6,2802.0,injection multipoint multipoint port unique,3.27,3.35,9.3,161,5200,12.379714894736843,9.800607625,15998.0,corona,toyota
+180,181,-1,gas,standard,4,berline,arriere,devant,2.65,4.77,1.69,1.37,1.57,double ACT,6,2802.0,injection multipoint multipoint port unique,3.27,3.35,9.2,156,5200,11.76072915,9.800607625,15690.0,starlet,toyota
+181,182,-1,gas,standard,4,break,arriere,devant,2.65,4.77,1.69,1.37,1.58,double ACT,6,2638.0,injection multipoint multipoint port unique,3.27,3.35,9.2,156,5200,12.379714894736843,9.800607625,15750.0,tercel,toyota
+182,183,2,diesel,standard,2,berline,avant,devant,2.47,4.36,1.66,1.41,1.13,ACT,4,1590.0,injection indirecte,3.01,3.4,23.0,52,4800,6.357150891891892,5.1133605,7775.0,rabbit,volkswagen
+183,184,2,gas,standard,2,berline,avant,devant,2.47,4.36,1.66,1.41,1.1,ACT,4,1786.0,injection multipoint multipoint port unique,3.19,3.4,9.0,85,5250,8.711651222222223,6.9180759705882355,7975.0,1131 deluxe sedan,volkswagen
+184,185,2,diesel,standard,4,berline,avant,devant,2.47,4.36,1.66,1.41,1.13,ACT,4,1590.0,injection indirecte,3.01,3.4,23.0,52,4800,6.357150891891892,5.1133605,7995.0,model 111,volkswagen
+185,186,2,gas,standard,4,berline,avant,devant,2.47,4.36,1.66,1.41,1.11,ACT,4,1786.0,injection multipoint multipoint port unique,3.19,3.4,9.0,85,5250,8.711651222222223,6.9180759705882355,8195.0,type 3,volkswagen
+186,187,2,gas,standard,4,berline,avant,devant,2.47,4.36,1.66,1.41,1.14,ACT,4,1786.0,injection multipoint multipoint port unique,3.19,3.4,9.0,85,5250,8.711651222222223,6.9180759705882355,8495.0,411 (sw),volkswagen
+187,188,2,diesel,turbo,4,berline,avant,devant,2.47,4.36,1.66,1.41,1.16,ACT,4,1590.0,injection indirecte,3.01,3.4,23.0,68,4500,6.357150891891892,5.600347214285715,9495.0,super beetle,volkswagen
+188,189,2,gas,standard,4,berline,avant,devant,2.47,4.36,1.66,1.41,1.15,ACT,4,1786.0,injection multipoint multipoint port unique,3.19,3.4,10.0,100,5500,9.046714730769231,7.35045571875,9995.0,dasher,volkswagen
+189,190,3,gas,standard,2,decapotable,avant,devant,2.4,4.05,1.63,1.41,1.13,ACT,4,1786.0,injection multipoint multipoint port unique,3.19,3.4,8.5,90,5500,9.800607625,8.110847689655172,11595.0,dasher,volkswagen
+190,191,3,gas,standard,2,hayon,avant,devant,2.4,4.21,1.63,1.31,1.11,ACT,4,1786.0,injection multipoint multipoint port unique,3.19,3.4,8.5,90,5500,9.800607625,8.110847689655172,9980.0,rabbit,volkswagen
+191,192,0,gas,standard,4,berline,avant,devant,2.55,4.58,1.7,1.4,1.33,ACT,5,2229.0,injection multipoint multipoint port unique,3.19,3.4,8.5,110,5500,12.379714894736843,9.800607625,13295.0,rabbit,volkswagen
+192,193,0,diesel,turbo,4,berline,avant,devant,2.55,4.58,1.7,1.4,1.29,ACT,4,1590.0,injection indirecte,3.01,3.4,23.0,68,4500,7.127714636363637,6.189857447368421,13845.0,rabbit custom,volkswagen
+193,194,0,gas,standard,4,break,avant,devant,2.55,4.65,1.7,1.4,1.28,ACT,4,1786.0,injection multipoint multipoint port unique,3.19,3.4,9.0,88,5500,9.40858332,7.587567193548387,12290.0,dasher,volkswagen
+194,195,-2,gas,standard,4,berline,arriere,devant,2.65,4.8,1.71,1.43,1.46,ACT,4,2311.0,injection multipoint multipoint port unique,3.78,3.15,9.5,114,5400,10.226721,8.400520821428572,12940.0,145e (sw),volvo
+195,196,-1,gas,standard,4,break,arriere,devant,2.65,4.8,1.71,1.46,1.52,ACT,4,2311.0,injection multipoint multipoint port unique,3.78,3.15,9.5,114,5400,10.226721,8.400520821428572,13415.0,144ea,volvo
+196,197,-2,gas,standard,4,berline,arriere,devant,2.65,4.8,1.71,1.43,1.47,ACT,4,2311.0,injection multipoint multipoint port unique,3.78,3.15,9.5,114,5400,9.800607625,8.400520821428572,15985.0,244dl,volvo
+197,198,-1,gas,standard,4,break,arriere,devant,2.65,4.8,1.71,1.46,1.52,ACT,4,2311.0,injection multipoint multipoint port unique,3.78,3.15,9.5,114,5400,9.800607625,8.400520821428572,16515.0,245,volvo
+198,199,-2,gas,turbo,4,berline,arriere,devant,2.65,4.8,1.71,1.43,1.52,ACT,4,2130.0,injection multipoint multipoint port unique,3.62,3.15,7.5,162,5100,13.836151941176471,10.691571954545454,18420.0,264gl,volvo
+199,200,-1,gas,turbo,4,break,arriere,devant,2.65,4.8,1.71,1.46,1.58,ACT,4,2130.0,injection multipoint multipoint port unique,3.62,3.15,7.5,162,5100,13.836151941176471,10.691571954545454,18950.0,diesel,volvo
+200,201,-1,gas,standard,4,berline,arriere,devant,2.77,4.8,1.75,1.41,1.48,ACT,4,2311.0,injection multipoint multipoint port unique,3.78,3.15,9.5,114,5400,10.226721,8.400520821428572,16845.0,145e (sw),volvo
+201,202,-1,gas,turbo,4,berline,arriere,devant,2.77,4.8,1.75,1.41,1.52,ACT,4,2311.0,injection multipoint multipoint port unique,3.78,3.15,8.7,160,5300,12.379714894736843,9.40858332,19045.0,144ea,volvo
+202,203,-1,gas,standard,4,berline,arriere,devant,2.77,4.8,1.75,1.41,1.51,soupapes en tête à manchon,6,2835.0,injection multipoint multipoint port unique,3.58,2.87,8.8,134,5500,13.067476833333334,10.226721,21485.0,244dl,volvo
+203,204,-1,diesel,turbo,4,berline,arriere,devant,2.77,4.8,1.75,1.41,1.61,ACT,6,2376.0,injection indirecte,3.01,3.4,23.0,106,4800,9.046714730769231,8.711651222222223,22470.0,246,volvo
+204,205,-1,gas,turbo,4,berline,arriere,devant,2.77,4.8,1.75,1.41,1.53,ACT,4,2311.0,injection multipoint multipoint port unique,3.78,3.15,9.5,114,5400,12.379714894736843,9.40858332,22625.0,264gl,volvo
